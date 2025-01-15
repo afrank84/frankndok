@@ -25,8 +25,8 @@ slorber:
 frank:
   name: Anthony Frank
   title: Site Owner
-  url: #
-  image_url: #
+  url: https://github.com/afrank84
+  image_url: https://github.com/afrank84.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-sebastien-lorber-articles'
