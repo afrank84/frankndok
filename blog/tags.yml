@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+life:
+  label: Life
+  permalink: /life
+  description: Everyday life. 
