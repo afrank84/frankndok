@@ -1,5 +1,5 @@
 ---
-title: New Year, New Blog
+title: 2025-01-15 | New Year, New Blog
 authors: [frank]
 tags: [life]
 ---
