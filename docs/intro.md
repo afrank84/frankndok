@@ -2,46 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# About Me
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hi, I’m Frank, I am a follower of Christ and a passionate DevOps professional with a knack for creating streamlined solutions across various platforms and tools. I thrive in environments where I can blend technical expertise with creative problem-solving to deliver impactful results. My background spans software development, infrastructure automation, and containerized applications, making me well-versed in modern DevOps practices.
 
-## Getting Started
+I enjoy building user-friendly applications, managing intricate databases, and designing scalable workflows. Whether it’s creating a plant management app tailored to the gardening community or automating complex tasks through custom scripts, I approach each project with a focus on efficiency, usability, and precision.
 
-Get started by **creating a new site**.
+When I’m not coding or troubleshooting, you can find me experimenting with DIY setups on my Synology NAS, diving into gardening projects, or conceptualizing innovative ways to integrate tools like GitHub Actions with everyday workflows. I’m always on the lookout for the next challenge that allows me to combine my technical skills with my passion for building things that matter.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Also I was too lazy to write my own about me, so I had AI do it. Automation... I do a lot of automation. But I do approve of the above description.
 
-### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
