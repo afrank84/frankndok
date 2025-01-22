@@ -1,24 +1,74 @@
-security:
-  label: Security
-  permalink: /security
-  description: security (typically digital)
+ai-ml:
+  label: AI & Machine Learning
+  permalink: /ai-ml
+  description: Topics on Artificial Intelligence, Machine Learning, and their applications.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+automation:
+  label: Automation
+  permalink: /automation
+  description: Tools, scripts, and strategies for automating repetitive tasks.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+cloud-computing:
+  label: Cloud Computing
+  permalink: /cloud-computing
+  description: Everything about cloud platforms, architecture, and services like AWS, Azure, and GCP.
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+cybersecurity:
+  label: Cybersecurity
+  permalink: /cybersecurity
+  description: Digital security practices, tools, and tips to stay safe online.
 
-life:
-  label: Life
-  permalink: /life
-  description: Everyday life. 
+data-science:
+  label: Data Science
+  permalink: /data-science
+  description: Insights into data analysis, visualization, and processing.
+
+devops:
+  label: DevOps
+  permalink: /devops
+  description: DevOps practices, CI/CD, automation, and toolchains.
+
+hardware:
+  label: Hardware
+  permalink: /hardware
+  description: Technology gadgets, components, and innovations.
+
+iot:
+  label: Internet of Things
+  permalink: /iot
+  description: Smart devices, IoT technologies, and their impact.
+
+linux:
+  label: Linux
+  permalink: /linux
+  description: Linux distributions, commands, scripting, and system administration.
+
+open-source:
+  label: Open Source
+  permalink: /open-source
+  description: Contributions, tools, and news about open-source software.
+
+powershell:
+  label: PowerShell
+  permalink: /powershell
+  description: PowerShell scripting, commands, and automation tips.
+
+python:
+  label: Python
+  permalink: /python
+  description: Python programming tutorials, libraries, and use cases.
+
+startups:
+  label: Startups
+  permalink: /startups
+  description: Technology-focused startups, entrepreneurship, and innovation.
+
+tech-life:
+  label: Tech & Life
+  permalink: /tech-life
+  description: How technology influences our daily lives.
+
+web-development:
+  label: Web Development
+  permalink: /web-development
+  description: Frontend and backend development, frameworks, and best practices.
