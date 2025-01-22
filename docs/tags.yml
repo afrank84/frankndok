@@ -1,0 +1,24 @@
+security:
+  label: Security
+  permalink: /security
+  description: security (typically digital)
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+life:
+  label: Life
+  permalink: /life
+  description: Everyday life. 
