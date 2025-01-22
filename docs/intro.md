@@ -10,6 +10,6 @@ I enjoy building user-friendly applications, managing intricate databases, and d
 
 When I’m not coding or troubleshooting, you can find me experimenting with DIY setups on my Synology NAS, diving into gardening projects, or conceptualizing innovative ways to integrate tools like GitHub Actions with everyday workflows. I’m always on the lookout for the next challenge that allows me to combine my technical skills with my passion for building things that matter.
 
-Also I was too lazy to write my own about me, so I had AI do it. Automation... I do a lot of automation. But I do approve of the above description.
+Also, I was too lazy to write my own about me so I had AI do it. Automation... I do a lot of automation. But I do approve of the above description.
 
 
