@@ -1,5 +1,5 @@
 ---
-title: New Year, New Blog
+title: Monthly Report
 authors: [frank]
 tags: [life]
 ---
