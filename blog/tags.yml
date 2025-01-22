@@ -3,10 +3,6 @@ facebook:
   permalink: /facebook
   description: Facebook tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
 
 docusaurus:
   label: Docusaurus
@@ -22,3 +18,8 @@ life:
   label: Life
   permalink: /life
   description: Everyday life. 
+
+ministry:
+  label: Ministry
+  permalink: /ministry
+  description: Glory be to God. 
