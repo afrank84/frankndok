@@ -1,10 +1,11 @@
 ---
 title: 2025-02-28 | February Report
 authors: [frank]
-tags: [life]
+tags: [life, technology]
 ---
 
-# Working on a Habit Tracker
+## Technology Journey
+### Working on a Habit Tracker
 Recently needed to create my own anti-virus scanner and needed something that could run from a live booted usb running Ubuntu. I pretty much live 
 and breath Powershell, but it always feels dirty and lack luster on Linux. Everything that is complicated in bash seems to die, so I figured I would 
 give Perl a try since it was already on most Linux distros pre-installed. I was also familiar with TK from Python, so I figured I would try and make Pearl
