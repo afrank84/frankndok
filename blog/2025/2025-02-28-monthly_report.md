@@ -13,4 +13,4 @@ GUI for my PopOS distro that could track habits. I built in Javascript first, bu
 I have suck. Mine still sucks too, but it meets my needs and took me less than an hour to code it. Maybe I will put code in repo if anyon is interested
 and develop it more for my needs as my needs grow. Random note:
 
-![image](https://github.com/user-attachments/assets/f2401b6b-6e8c-49d3-b194-f221ec8f478e)
+![image](../../images/habittracker_2025-02-01.png)
