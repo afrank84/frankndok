@@ -23,3 +23,8 @@ ministry:
   label: Ministry
   permalink: /ministry
   description: Glory be to God. 
+
+ministry:
+  label: Technology
+  permalink: /technology
+  description: Nerd stuff. 
