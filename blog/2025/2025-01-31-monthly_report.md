@@ -4,7 +4,7 @@ authors: [frank]
 tags: [life, ministry, technology]
 ---
 
-<i>Note: I work on this document all month until the end of the month. So it may get updated in real time.</i> 
+
 ## Ministry
 
 ### Youth Group

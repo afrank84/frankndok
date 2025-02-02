@@ -3,6 +3,7 @@ title: 2025-02-28 | February Report
 authors: [frank]
 tags: [life, technology]
 ---
+<i>Note: I work on this document all month until the end of the month. So it may get updated in real time.</i> 
 
 ## Technology Journey
 ### Working on a Habit Tracker
