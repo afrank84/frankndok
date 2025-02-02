@@ -1,7 +1,7 @@
 ---
 title: 2025-01-31 | January Report
 authors: [frank]
-tags: [life, ministry]
+tags: [life, ministry, technology]
 ---
 
 <i>Note: I work on this document all month until the end of the month. So it may get updated in real time.</i> 
