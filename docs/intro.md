@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+# Welcome
 
 # Why this site exists
 Hi, my name is Frank and this site is where I host documentation and my blog. The blog is for my family, friends, and others overseas where communitcation is difficult. While the documnetation is mostly for me when I travel so I can spin up a local blog when in remote places as everything is version controlled with Git.
