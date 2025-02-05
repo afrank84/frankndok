@@ -2,14 +2,17 @@
 sidebar_position: 1
 ---
 
-# About Me
+# Why this site exists
+Hi, my name is Frank and this site is where I host documentation and my blog. The blog is for my family, friends, and others overseas where communitcation is difficult. While the documnetation is mostly for me when I travel so I can spin up a local blog when in remote places as everything is version controlled with Git.
 
-Hi, I’m Frank, I am a follower of Christ and a passionate DevOps professional with a knack for creating streamlined solutions across various platforms and tools. I thrive in environments where I can blend technical expertise with creative problem-solving to deliver impactful results. My background spans software development, infrastructure automation, and containerized applications, making me well-versed in modern DevOps practices.
+# Who am I
+I am many things, but first and foremost a follower of Christ. 
 
-I enjoy building user-friendly applications, managing intricate databases, and designing scalable workflows. Whether it’s creating a plant management app tailored to the gardening community or automating complex tasks through custom scripts, I approach each project with a focus on efficiency, usability, and precision.
+# Current Proffession
+I work within the realm of technology with things so nerdy that I typcially glaze over the eyes of professional nerds. I started my carear with webdesign/advertisng/marketing and moved over to DevOps. Currently I deal with a ton of automation/scripts/infrustructure stuff. However, very recently I have been semi forced into security to meet some needs where I work. Since I am a bit weaker on the network and security side I have decided to throw myself into that field for at least the year of 2025.
 
-When I’m not coding or troubleshooting, you can find me experimenting with DIY setups on my Synology NAS, diving into gardening projects, or conceptualizing innovative ways to integrate tools like GitHub Actions with everyday workflows. I’m always on the lookout for the next challenge that allows me to combine my technical skills with my passion for building things that matter.
+# Hobbies
+Gardening, Hiking, and more Technology.
 
-Also, I was too lazy to write my own about me so I had AI do it. Automation... I do a lot of automation. But I do approve of the above description.
 
 
