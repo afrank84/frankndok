@@ -162,3 +162,189 @@ All of these are technology related:
 | L2TP    | Layer 2 Tunneling Protocol |
 | LAN     | Local Area Network |
 | LDAP    | Lightweight Directory Access Protocol |
+| LEAP    | Lightweight Extensible Authentication Protocol |
+| MaaS    | Monitoring as a Service |
+| MAC     | Media Access Control |
+| MAM     | Mobile Application Management |
+| MAN     | Metropolitan Area Network |
+| MBR     | Master Boot Record |
+| MD5     | Message Digest 5 |
+| MDF     | Main Distribution Frame |
+| MDM     | Mobile Device Management |
+| MFA     | Multifactor Authentication |
+| MFD     | Multifunction Device |
+| MFP     | Multifunction Printer |
+| ML      | Machine Learning |
+| MMS     | Multimedia Message Service |
+| MOA     | Memorandum of Agreement |
+| MOU     | Memorandum of Understanding |
+| MPLS    | Multiprotocol Label Switching |
+| MSA     | Measurement Systems Analysis |
+| MS-CHAP | Microsoft Challenge-Handshake Authentication Protocol |
+| MSP     | Managed Service Provider |
+| MSSP    | Managed Security Service Provider |
+| MTBF    | Mean Time Between Failures |
+| MTTF    | Mean Time to Failure |
+| MTTR    | Mean Time to Repair |
+| MTU     | Maximum Transmission Unit |
+| NAC     | Network Access Control |
+| NAS     | Network-attached Storage |
+| NAT     | Network Address Translation |
+| NDA     | Non-disclosure Agreement |
+| NFC     | Near-field Communication |
+| NFV     | Network Function Virtualization |
+| NGFW    | Next-generation Firewall |
+| NG-SWG  | Next-generation Secure Web Gateway |
+| NIC     | Network Interface Card |
+| NIDS    | Network-based Intrusion Detection System |
+| NIST    | National Institute of Standards and Technology |
+| NIPS    | Network-based Intrusion Prevention System |
+| NIST    | National Institute of Standards and Technology |
+| NTFS    | New Technology File System |
+| NTLM    | New Technology LAN Manager |
+| NTP     | Network Time Protocol |
+| OAUTH   | Open Authorization |
+| OCSP    | Online Certificate Status Protocol |
+| OID     | Object Identifier |
+| OS      | Operating System |
+| OSI     | Open Systems Interconnection |
+| OSINT   | Open-source Intelligence |
+| OSPF    | Open Shortest Path First |
+| OT      | Operational Technology |
+| OTA     | Over-The-Air |
+| OTG     | On-The-Go |
+| OVAL    | Open Vulnerability and Assessment Language |
+| OWASP   | Open Web Application Security Project |
+| P12     | PKCS #12 |
+| P2P     | Peer-to-Peer |
+| PaaS    | Platform as a Service |
+| PAC     | Proxy Auto Configuration |
+| PAM     | Privileged Access Management |
+| PAP     | Password Authentication Protocol |
+| PAT     | Port Address Translation |
+| PBKDF2  | Password-Based Key Derivation Function 2 |
+| PBX     | Private Branch Exchange |
+| PCAP    | Packet Capture |
+| PCI     | Payment Card Industry |
+| PCI-DSS | Payment Card Industry Data Security Standard |
+| PE      | Portable Executable |
+| PED     | Personal Electronic Device |
+| PFS     | Perfect Forward Secrecy |
+| PGP     | Pretty Good Privacy |
+| PHI     | Protected Health Information |
+| PII     | Personally Identifiable Information |
+| PIN     | Personal Identification Number |
+| PKCS    | Public Key Cryptography Standards |
+| PKI     | Public Key Infrastructure |
+| PLC     | Programmable Logic Controller |
+| PM     | Project Manager |
+| PMS     | Patch Management System |
+| POP     | Post Office Protocol |
+| POP3    | Post Office Protocol 3 |
+| POTS    | Plain Old Telephone Service |
+| PPP     | Point-to-Point Protocol |
+| PPTP    | Point-to-Point Tunneling Protocol |
+| PSK     | Pre-Shared Key |
+| PTZ     | Pan-Tilt-Zoom |
+| RA      | Recovery Agent |
+| RADIUS  | Remote Authentication Dial-In User Service |
+| RAID    | Redundant Array of Independent Disks |
+| RAS     | Remote Access Service |
+| RAT     | Remote Access Trojan |
+| RBAC    | Role-based Access Control |
+| RBAC    | Rule-based Access Control |
+| RC4     | Rivest Cipher 4 |
+| RDP     | Remote Desktop Protocol |
+| REST    | Representational State Transfer |
+| RFID    | Radio Frequency Identification |
+| RIPEMD  | RACE Integrity Primitives Evaluation Message Digest |
+| RMM     | Remote Monitoring and Management |
+| RPO     | Recovery Point Objective |
+| RSA     | Rivest, Shamir, and Adleman |
+| RTO     | Recovery Time Objective |
+| RTP     | Real-time Transport Protocol |
+| RTOS    | Real-time Operating System |
+| S/MIME  | Secure/Multipurpose Internet Mail Extensions |
+| SaaS    | Software as a Service |
+| SAE     | Simultaneous Authentication of Equals |
+| SAML    | Security Assertions Markup Language |
+| SAN     | Storage Area Network |
+| SCADA   | Supervisory Control and Data Acquisition |
+| SCAP    | Security Content Automation Protocol |
+| SCEP    | Simple Certificate Enrollment Protocol |
+| SDK     | Software Development Kit |
+| SDLC    | Software Development Life Cycle |
+| SDN     | Software Defined Networking |
+| SEH     | Structured Exception Handling |
+| SFTP    | Secure File Transfer Protocol |
+| SHA     | Secure Hash Algorithm |
+| SIEM    | Security Information and Event Management |
+| SIM     | Subscriber Identity Module |
+| SIRT    | Security Incident Response Team |
+| SLA     | Service Level Agreement |
+| SLE     | Single Loss Expectancy |
+| S/MIME  | Secure/Multipurpose Internet Mail Extensions |
+| SMS     | Short Message Service |
+| SMTP    | Simple Mail Transfer Protocol |
+| SNMP    | Simple Network Management Protocol |
+| SOAP    | Simple Object Access Protocol |
+| SOAR    | Security Orchestration, Automation, and Response |
+| SOC     | Security Operations Center |
+| SPIM    | Spam over Internet Messaging |
+| SPoF    | Single Point of Failure |
+| SQL     | Structured Query Language |
+| SRTP    | Secure Real-time Transport Protocol |
+| SSD     | Solid State Drive |
+| SSH     | Secure Shell |
+| SSID    | Service Set Identifier |
+| SSL     | Secure Sockets Layer |
+| SSO     | Single Sign-On |
+| STP     | Shielded Twisted Pair |
+| STP     | Spanning Tree Protocol |
+| SYN     | Synchronize |
+| TACACS  | Terminal Access Controller Access-Control System |
+| TACACS+ | Terminal Access Controller Access-Control System Plus |
+| TCO     | Total Cost of Ownership |
+| TCP     | Transmission Control Protocol |
+| TGT     | Ticket Granting Ticket |
+| TKIP    | Temporal Key Integrity Protocol |
+| TLS     | Transport Layer Security |
+| TOTP    | Time-based One-Time Password |
+| TPM     | Trusted Platform Module |
+| TSIG    | Transaction Signature |
+| TTP     | Tactics, Techniques, and Procedures |
+| UAT     | User Acceptance Testing |
+| UDP     | User Datagram Protocol |
+| UEBA    | User and Entity Behavior Analytics |
+| UEFI    | Unified Extensible Firmware Interface |
+| UEM     | Unified Endpoint Management |
+| UTM     | Unified Threat Management |
+| UPS     | Uninterruptible Power Supply |
+| URL     | Uniform Resource Locator |
+| USB     | Universal Serial Bus |
+| USB OTG | Universal Serial Bus On-The-Go |
+| UTM     | Unified Threat Management |
+| VDI     | Virtual Desktop Infrastructure |
+| VLAN    | Virtual Local Area Network |
+| VM      | Virtual Machine |
+| VMI     | Virtual Mobile Infrastructure |
+| VoIP    | Voice over Internet Protocol |
+| VPN     | Virtual Private Network |
+| VTC     | Video Teleconferencing |
+| WAF     | Web Application Firewall |
+| WAP     | Wireless Access Point |
+| WEP     | Wired Equivalent Privacy |
+| WIDS    | Wireless Intrusion Detection System |
+| WIPS    | Wireless Intrusion Prevention System |
+| WLAN    | Wireless Local Area Network |
+| WPA     | WiFi Protected Access |
+| WPA2    | WiFi Protected Access 2 |
+| WPA3    | WiFi Protected Access 3 |
+| WPS     | WiFi Protected Setup |
+| WORM    | Write Once Read Many |
+| WWW     | World Wide Web |
+| XaaS    | Anything as a Service |
+| XML     | Extensible Markup Language |
+| XOR     | Exclusive OR |
+| XSRF    | Cross-site Request Forgery |
+| XSS     | Cross-site Scripting |
