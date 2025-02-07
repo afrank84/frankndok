@@ -9,7 +9,7 @@ Hi, my name is Frank and this site is where I host documentation and my blog. Th
 # Who am I
 I am many things, but first and foremost a follower of Christ. 
 
-# Current Proffession
+# Current Profession
 I work within the realm of technology with things so nerdy that I typcially glaze over the eyes of professional nerds. I started my carear with webdesign/advertisng/marketing and moved over to DevOps. Currently I deal with a ton of automation/scripts/infrustructure stuff. However, very recently I have been semi forced into security to meet some needs where I work. Since I am a bit weaker on the network and security side I have decided to throw myself into that field for at least the year of 2025.
 
 # Hobbies
