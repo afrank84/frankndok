@@ -48,6 +48,7 @@ All of these are technology related:
 | CERT    | Computer Emergency Response Team |
 | CFB     | Cipher Feedback |
 | CHAP    | Challenge-Handshake Authentication Protocol |
+| CIA     | Confidentiality, Integrity, and Availability |
 | CIO     | Chief Information Officer |
 | CIRT    | Computer Incident Response Team |
 | CIS     | Center for Internet Security |
