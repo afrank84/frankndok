@@ -16,4 +16,6 @@ Still working on my Security Plus Certificatation, it is pretty dry stuff but ge
 
 ## Ministry
 ### Youth Group
-I have gotten to know some of the leaders better at Youth Group and a few of the young boys/men there. I knew some previously but am still working hard to remember names and match faces with backgrounds. Overall, I can tell they are listening but getting teenage boys to engage is more difficult than I remember when I was in youth. Most are polite and from time to time I see both leadershipship and foolishness. 
+I have gotten to know some of the leaders better at Youth Group and a few of the young boys/men there. I knew some previously but am still working hard to remember names and match faces with backgrounds. Overall, I can tell they are listening but getting teenage boys to engage is more difficult than I remember when I was in youth. Most are polite and from time to time I see both leadershipship and foolishness opperunities in these young men.
+
+We are on continuing to practice Portuguese in hopes to be more effective when presenting the gospel in Brazil next month. Our bags are packed (1 small backpack per person) and will carry only what we need. Much like youth group, I have no idea what to expect and will be jumping in semi blind into Brazil. Ultimately we look forward to some fellowship with our brothers and sister down there and want to be a blessing any way possible. 
