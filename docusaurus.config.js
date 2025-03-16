@@ -90,7 +90,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/afrank84/frankndok/tree/gh_pages',
             label: 'GitHub',
             position: 'right',
           },
@@ -139,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Anthony Frank. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Anthony Frank. Built with <a href="https://github.com/facebook/docusaurus">Docusaurus.</a>`,
       },
       prism: {
         theme: prismThemes.github,
