@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Blog',
+    imageSrc: require('@site/images/frank_dr.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Acts a bit of a journal/diary with monthly recaps on what God is doing in our family.
+        
       </>
     ),
   },
@@ -35,11 +35,15 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, imageSrc, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {imageSrc ? ( // If an imageSrc is provided, render an img tag
+          <img src={imageSrc} alt={title} className={styles.featureImage} />
+        ) : (
+          <Svg className={styles.featureSvg} role="img" /> // Otherwise, render an SVG
+        )}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
@@ -48,6 +52,7 @@ function Feature({Svg, title, description}) {
     </div>
   );
 }
+
 
 export default function HomepageFeatures() {
   return (
