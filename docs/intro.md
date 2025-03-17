@@ -29,8 +29,13 @@ I believe in grace, that salvation is a gift, not earned by works, but received 
 
 In all things, I place my trust in God, seeking to walk faithfully until the day I see Him face to face.
 
-# Career Choices
-I do not believe in strict specialization. Instead, I have acquired a diverse and unique set of skills over my lifetime, equipping me for whatever challenges arise. From infantry combat to stocks, to building a house, to learning languages, or playing instruments, each experience has broadened my abilities and strengthened my adaptability.
+### Career & Professional Trade  
+
+I work in the world of technology, dealing with things so technical that even seasoned professionals sometimes zone out when I talk about them. My career began in web design, advertising, and marketing before transitioning into DevOps, where I now focus heavily on automation, scripting, and infrastructure management.  
+
+More recently, I’ve been pulled into security to meet certain needs at work. Since networking and security aren’t my strongest areas, I’ve decided to fully immerse myself in that field throughout 2025, sharpening my skills and expanding my expertise.  
+
+I do not believe in strict specialization. Instead, I have acquired a diverse and unique set of skills over my lifetime, equipping me for whatever challenges arise. From infantry combat to stock trading, building a house to learning languages, playing instruments to problem-solving in tech, each experience has broadened my abilities and strengthened my adaptability.  
 
 In every scenario, I strive to be prepared “for such a time as this” (Esther 4:14), knowing that nothing in my journey has been wasted, but rather shaped for a greater purpose.
 

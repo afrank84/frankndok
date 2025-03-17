@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Acronyms
+# Security Acronyms
 
 All of these are technology related:
 
