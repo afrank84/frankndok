@@ -1,6 +1,6 @@
 
 
-# Chapter 1
+# Categories/Types of Security Controls
 
 ## Categories of Security Controls
 - Technical Controls

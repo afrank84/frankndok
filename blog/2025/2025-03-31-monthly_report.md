@@ -23,4 +23,20 @@ In other news, after many years of searching Facebook Market place for a Shuttle
 
 
 ### Brazil
+#### Pre-Arrival
 As a family, we’ve been working to get everything in order as we prepare for our trip to Brazil. Making sure all our ducks are in a row, packed, and ready to go has been a process, but we’re getting there! I’ve also been practicing sharing the Gospel entirely in Portuguese and feel pretty comfortable with a basic presentation now. It’s been a challenge, but a rewarding one.
+
+Speaking of Challenges all of these happened the within a week of my trying to travel to Brazil. Not sure if any of this counts as spiritual warfare or just a test of patience. 
+- 2 vehicles with mechanical issues (I must really love buying auto parts)
+- 3 appliances with pumping problems (Dishwasher, kitchen sink, and master toilet—because why not?)
+- 1 broken chicken waterer was flooding coop (fixed)
+- 2 roof leaks (A tree branch through the chicken coop and an unexplained leak over the laundry room)
+    - Best part was coop still flooded (after waterer fix) but now from hole in roof...lol
+- 2 sick kids the week before (Thankfully, they’re both better now)
+- 1 new, decently large problem at work
+- And a partridge in a pear tree… 😂
+
+Despite it all, we’re pushing forward, trusting that God has a plan through every unexpected hurdle. Brazil, here we come!
+
+#### Post-Arrival
+...to be continued in brazil...
