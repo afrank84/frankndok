@@ -29,8 +29,8 @@ I believe in grace, that salvation is a gift, not earned by works, but received 
 
 In all things, I place my trust in God, seeking to walk faithfully until the day I see Him face to face.
 
-# Current Profession
-I do not believe in strict specialization. Instead, I have acquired a diverse and unique set of skills over my lifetime, equipping me for whatever challenges arise. From infantry combat to building a house, to learning languages, each experience has broadened my abilities and strengthened my adaptability.
+# Career Choices
+I do not believe in strict specialization. Instead, I have acquired a diverse and unique set of skills over my lifetime, equipping me for whatever challenges arise. From infantry combat to stocks, to building a house, to learning languages, or playing instruments, each experience has broadened my abilities and strengthened my adaptability.
 
 In every scenario, I strive to be prepared “for such a time as this” (Esther 4:14), knowing that nothing in my journey has been wasted, but rather shaped for a greater purpose.
 
