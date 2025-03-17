@@ -9,3 +9,17 @@
   height: 200px;
   width: 200px;
 }
+
+.featureImage {
+  width: 300px; /* Adjust as needed */
+  height: 300px;
+  transition: opacity 0.5s ease-in-out; /* Smooth fade effect */
+}
+
+.fadeIn {
+  opacity: 1;
+}
+
+.fadeOut {
+  opacity: 0;
+}
