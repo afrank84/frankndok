@@ -31,7 +31,7 @@ In all things, I place my trust in God, seeking to walk faithfully until the day
 
 ### Career & Professional Trade  
 
-I work in the world of technology, dealing with things so technical that even seasoned professionals sometimes zone out when I talk about them. My career began in web design, advertising, and marketing before transitioning into DevOps, where I now focus heavily on automation, scripting, and infrastructure management.  
+I work in technology, dealing with technical details that can sometimes be a lot to follow, even for experienced professionals. My career began in web design, advertising, and marketing before transitioning into DevOps, where I now focus heavily on automation, scripting, and infrastructure management.  
 
 More recently, I’ve been pulled into security to meet certain needs at work. Since networking and security aren’t my strongest areas, I’ve decided to fully immerse myself in that field throughout 2025, sharpening my skills and expanding my expertise.  
 
