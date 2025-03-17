@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Frank -N- Dok',
-  tagline: 'Follow the white rabbit.',
+  title: 'Frank Documents',
+  tagline: '(Frank-n-Dok)',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
