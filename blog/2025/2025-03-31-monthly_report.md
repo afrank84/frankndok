@@ -14,7 +14,6 @@ On another note, after years of searching Facebook Marketplace for the right shu
 
 ### Funeral – Brother Bill
 This month also brought loss, as we said goodbye to a dear brother, Bill. While I will deeply miss him, I rejoice knowing he is with the Lord and free from suffering. His presence and faith impacted many, and I’m grateful for the time I had with him. This week, I just want to focus on loving and supporting his family during the funeral.
-In other news, after many years of searching Facebook Market place for a Shuttle Bus to buy one came up for sale that met all my pickyrequirements. So we bought it. I think it will open up missions in the future. The timing seemed weird but God knows what he is doing, and I sure don't.
 
 
 > Ecclesiastes 7:2 (KJV)
@@ -39,4 +38,20 @@ Speaking of Challenges all of these happened the within a week of my trying to t
 Despite it all, we’re pushing forward, trusting that God has a plan through every unexpected hurdle. Brazil, here we come!
 
 #### Post-Arrival
-...to be continued in brazil...
+2025-03-19 (Wed)
+
+** Travel **
+Most this day felt like multiple days. Think this becuase on Tuesday blended into Wednesday between jumping countries and time zone.
+There is about a 2 hour drive from Hawthorne, Fl to Orlando, Fl, but we let the house at 1pm to celeberate my dad's 69th
+birthday. So we spent some time in Orlando mall and had a meal before heading out, as my parents were the ones who were dropping
+us off at the air port. From there is was a about 1 hour after we got through TSA and another 9 hours at nigtht flying. The seats
+were small and I almost did not get the seatbelt around me. There were TVs with movies, but I think everyones TV just broke
+after diffferent times. I focused on sleeping, with my wife and I scoring around 3 to 4 hours of sleep. We arrived in country
+later around 5am, and went through customs, immagration, and Brazillian TSA for the domestic flight. Then waited again for
+for our next flight. Once we arrived in Caxis de Sul, we met with Jim and Guta (Maria) and then caught a van to the rental place
+to pick up a rental car. Apperantly there was some descrepency with the amount from rental online an in person for about 200.00 USD
+and I got to watch Guta display her Brazillian negotitaiton skills for about an 1 hour, and then we were on our way to their
+house which is another 2 hour ride. We stopped somewhere closer to thier house and was treated to a Brazillian buffet.
+
+
+
