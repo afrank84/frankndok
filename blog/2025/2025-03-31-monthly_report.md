@@ -62,14 +62,14 @@ church and the pastor. We even were invited to take pictures with everyone at th
 Jim and Guta (Maria) about projects they are doing for their mission work and listening to how God is just providing without them 
 asking. God is truly at work here and we are happy to be apart of it.
 
-I (Frank) was off playing pool with local pastor and some of the businessman. I did not know who was from the church, Eduardo's family, 
-or business associates at first. I thought I was talking to a man from his church, but it was actually a business man. I was
-talkign about Jesus and church in Porteguese when told me he did not go to thier church. I presented the Gosepl in Portuguese
+I (Frank) was off playing pool with a local pastor and some of the businessmen. I did not know who was from the church, Eduardo's family, 
+or business associates at first. I thought I was talking to a man from his church, but it was actually a businessman. I was
+talking about Jesus and church in Portuguese when he told me he did not go to their church. I presented the Gospel in Portuguese
 and the man thanked me and introduced me to his wife and pointed out his children. I then introduced my family and pointed out
 my children who were playing on the inside jungle gym before I was pulled away to meet another person. My general response to 
-people when asked why I am here is "The Gosepel, that Jesus is God".
+people when asked why I am here is, "The Gospel, that Jesus is God".
 
-That night we layed down with the clothes on our back and passed out of exghuasten. 
+That night we laid down with the clothes on our back and passed out of exhaustion. 
 
 ##### 2025-03-19 (Thu)
 We woke up and washed some laundry from the day before with my scrubba (laundry wetbag we carry) and hung all the clothing before
