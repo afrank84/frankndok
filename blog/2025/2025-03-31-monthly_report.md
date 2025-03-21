@@ -73,20 +73,20 @@ That night we layed down with the clothes on our back and passed out of exghuast
 
 ##### 2025-03-19 (Thu)
 We woke up and washed some laundry from the day before with my scrubba (laundry wetbag we carry) and hung all the clothing before
-everyone was up. Updated some work on my laptop, and then had breakfast together with the Wards and then divided an counquered 
-by sexes. The men climbed up the side ofthe moutain to fix the well. Which is a rock that leaks water on the mountain and is collected via a hose which 
-brings in the main source of water. The men then went to the grocery store to pick up coffee and exchange some curenncy. The
-women went to the local farmers market to pick up fresh fruits and vegtables, and then we would team up at the local butchers.
+everyone was up. Updated some work on my laptop, and then had breakfast together with the Wards and then divided and counquered 
+by sexes. The men climbed up the side of the mountain to fix the well. That is a rock that leaks water on the mountain and is collected 
+via a hose, which brings in the main source of water. The men then went to the grocery store to pick up coffee and exchange some currency. The
+women went to the local farmers' market to pick up fresh fruits and vegetables, and then we would team up at the local butchers.
 
-Once at the butchers we it was all Porteguese again. The butchers thought it was funny that we spoke broken Porteguese and we
+Once at the butchers, it was all Portuguese again. The butchers thought it was funny that we spoke broken Portuguese and we
 began talking about meat, where we are from, Christ, and current politics. I learn roughly about 4 to 5 new words per conversation. 
 As I will have to ask about certain words during the conversation, to continue and progress. 
 
-From there I (Frank) was given the keys to drive back from the city to the house out in the country. Which is an experience 
+From there, I (Frank) was given the keys to drive back from the city to the house out in the country. Which is an experience 
 by itself. I have learned that stop signs are ignored at best, all double yellow lines mean pass if no one is looking, and 
-cutting in between people for no apperent reason is a way of life. 
+cutting in between people for no apparent reason is a way of life. 
 
-Most the evening was spent helping Jim with computer stuff while the women prepared the food for that evening. There was a lot
-fellowship and talking. 
+Most of the evening was spent helping Jim with computer stuff while the women prepared the food for that evening. There was a lot
+of fellowship and talking. 
 
 
