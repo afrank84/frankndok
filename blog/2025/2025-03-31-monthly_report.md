@@ -90,3 +90,22 @@ Most of the evening was spent helping Jim with computer stuff while the women pr
 of fellowship and talking. 
 
 
+##### 2025-03-20 (Fri)
+Today, we took a trip into the nearest town, about 20 kilometers away. It’s a tiny place—no more than eight buildings in 
+total—but full of character. We went to pick up some essentials: a good pair of boots, a plunger, and a few plumbing 
+supplies for a project we’ve got in the works. We stopped by the pharmacy to pick up medicine for Guta and then headed 
+to the grocery store to get milk for everyone back home.
+
+For lunch, we decided to eat at the only restaurant in Mato Perso at Restaurante Gaio, a quaint spot tucked just above a 
+large wine facility. Judging by the size of the place and the quiet pride it carried, we imagine wine is what the town is known for. 
+
+Later in the day, we gathered with three women. Two of which have been faithfully serving in missions for many years. 
+Each of them shared stories of their unique ministries—full of challenges, breakthroughs, and quiet obedience. 
+We spent nearly five hours in deep conversation, reflecting on the goodness of God and the many ways He’s worked in 
+each of our lives. It was one of those rare, rich times of fellowship that leaves your spirit both stirred and strengthened.
+
+Among them was a missionary who has spent the last 23 years serving in aviation ministries—faithfully flying supplies, 
+support, and hope to remote areas around the world. With a steady heart and a servant’s spirit, she’s poured out her 
+life in service. And now, she shared with a gentle honesty that she’s praying for a Godly husband—someone who shares 
+her heart for the Lord and for mission work. So, if you know a Christ-centered man with a love for adventure and a 
+calling to serve…there just might be a runway already prepared for him.
