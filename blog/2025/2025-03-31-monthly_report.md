@@ -71,7 +71,7 @@ people when asked why I am here is, "The Gospel, that Jesus is God".
 
 That night we laid down with the clothes on our back and passed out of exhaustion. 
 
-##### 2025-03-19 (Thu)
+##### 2025-03-20 (Thu)
 We woke up and washed some laundry from the day before with my scrubba (laundry wetbag we carry) and hung all the clothing before
 everyone was up. Updated some work on my laptop, and then had breakfast together with the Wards and then divided and counquered 
 by sexes. The men climbed up the side of the mountain to fix the well. That is a rock that leaks water on the mountain and is collected 
@@ -90,7 +90,7 @@ Most of the evening was spent helping Jim with computer stuff while the women pr
 of fellowship and talking. 
 
 
-##### 2025-03-20 (Fri)
+##### 2025-03-21 (Fri)
 Today, we took a trip into the nearest town, about 20 kilometers away. It’s a tiny place—no more than eight buildings in 
 total—but full of character. We went to pick up some essentials: a good pair of boots, a plunger, and a few plumbing 
 supplies for a project we’ve got in the works. We stopped by the pharmacy to pick up medicine for Guta and then headed 
@@ -109,3 +109,43 @@ support, and hope to remote areas around the world. With a steady heart and a se
 life in service. And now, she shared with a gentle honesty that she’s praying for a Godly husband—someone who shares 
 her heart for the Lord and for mission work. So, if you know a Christ-centered man with a love for adventure and a 
 calling to serve…there just might be a runway already prepared for him.
+
+##### 2025-03-22 (Saturday)
+Today ended up being a day at our Brazilian home after our original plans were unexpectedly canceled. We made the most of the extra 
+time by catching up on a few projects around the property. Jim and I weedwhacked the soccer field and around the pond, giving it a much-needed cleanup, 
+while the kids enjoyed some time swimming and cooling off in the water. Later in the day, Jessica and I tackled one of the workshop 
+rooms and managed to get it cleaned out and organized. In the evening, we gathered with Jim and Guta for a inprompt to  
+Bible study, which was a refreshing way to end the day. Though unplanned, the slower pace was a welcome change and a
+ good reminder that even the quiet days can be full of purpose.
+
+##### 2025-03-23 (Sunday)
+This morning we visited PIB Caxias do Sul, a local church where we were warmly welcomed. After the service, we 
+joined Jim’s Bible class, and I had the opportunity to share my testimony. I encouraged the Brazilian believers 
+there to live boldly for Christ.
+
+After class, I had some solid conversations with several Brazilians about homeschooling and technology.
+
+Back at home, we had lunch—filet mignon that cost just $27 for the whole roll. Not bad. While we were relaxing, 
+a family stopped by—Alexandre and Gracie with their three daughters: Bia (the youngest), Alice (middle), and 
+their oldest daughter. They were getting ready for a trip across Europe and were dropping off Alexandre’s sister, 
+Julia, who’s heading to Portugal for mission work. We shared tips on travel, packing, and how to stay 
+mission-focused while on the road.
+
+In the evening, we went to a church in Santa Fe called IBSF, located in a rough part of town. 
+The building was basically right on the street—just three walls, with the fourth side being a garage door that opened 
+to the public. Pastor Gabriel preached with the door wide open so people walking by could hear everything. 
+It was a bold and practical way to reach the neighborhood.
+
+To finish the day, we went to an all-you-can-eat Brazilian pizza place. They kept bringing out pizza, pasta, and 
+even dessert pizzas. Definitely a solid end to a packed day.
+
+##### 2025-03-24 (Monday)
+Spent the morning weedwhacking the orchard up on the mountain—good weather and a solid few hours of work.
+
+Later in the day, a missionary couple, Ellis and Tulia, arrived. They’re heading back north today to 
+Rio Grande do Norte, which is about a four-hour flight from here. They're going to meet with Jim and Guta to 
+get a better understanding of the work happening here.
+
+Ellis and Tulia have invited us to stay at their beach house sometime. They’re doing the same kind of 
+mission work as Jim and Guta—offering a place for missionaries to rest and recharge. Should be a good 
+connection for the future.
