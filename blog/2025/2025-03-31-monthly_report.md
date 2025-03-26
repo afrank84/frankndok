@@ -149,3 +149,18 @@ get a better understanding of the work happening here.
 Ellis and Tulia have invited us to stay at their beach house sometime. They’re doing the same kind of 
 mission work as Jim and Guta—offering a place for missionaries to rest and recharge. Should be a good 
 connection for the future.
+
+##### 2025-03-25 (Tuesday)
+Wrapped up mowing the rest of the orchard this afternoon. It’s good to have that off the list. Meanwhile, my wife tackled another storage area downstairs. She got it completely organized, and it’s now turned into a usable workshop space.
+
+The kids were in the pool nearly all day—probably got a little too much sun.
+
+Later on, Jim, Jessica, and I started working on the netting for the soccer field. After three hours, we only managed to get about a third of it done. It's slow, tedious work, and a lot of it involves balancing on ladders to secure the netting properly.
+
+I also met our neighbor, Odecio, who has lived next door for five generations. He shared how he lost a large part of his property during the flood and mudslide—including his radio tower and pool. Thankfully, his house made it through. I told him I remembered watching footage from that event when it happened—our church back in the States had been praying for him specifically, even though he had no idea at the time.
+
+We shared some tangerines while he showed me around his home and the ongoing cleanup. We walked over to a backhoe that’s still working on the damage left behind by the flood over a year ago. Many in this area are still rebuilding from that disaster.
+
+But it was that very flood that opened the door to ministry here. As Odecio said, “When I was cleaning up after the flood, the friends I had known all my life were sitting around playing cards. But these Americans—Christians who didn’t even know me—came to help.”
+
+This is the kind of testimony I like to hear. 
