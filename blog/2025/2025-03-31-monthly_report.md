@@ -110,7 +110,7 @@ life in service. And now, she shared with a gentle honesty that she’s praying 
 her heart for the Lord and for mission work. So, if you know a Christ-centered man with a love for adventure and a 
 calling to serve…there just might be a runway already prepared for him.
 
-##### 2025-03-22 (Saturday)
+##### 2025-03-22 (Sat)
 Today ended up being a day at our Brazilian home after our original plans were unexpectedly canceled. We made the most of the extra 
 time by catching up on a few projects around the property. Jim and I weedwhacked the soccer field and around the pond, giving it a much-needed cleanup, 
 while the kids enjoyed some time swimming and cooling off in the water. Later in the day, Jessica and I tackled one of the workshop 
@@ -118,7 +118,7 @@ rooms and managed to get it cleaned out and organized. In the evening, we gather
 Bible study, which was a refreshing way to end the day. Though unplanned, the slower pace was a welcome change and a
  good reminder that even the quiet days can be full of purpose.
 
-##### 2025-03-23 (Sunday)
+##### 2025-03-23 (Sun)
 This morning we visited PIB Caxias do Sul, a local church where we were warmly welcomed. After the service, we 
 joined Jim’s Bible class, and I had the opportunity to share my testimony. I encouraged the Brazilian believers 
 there to live boldly for Christ.
@@ -139,7 +139,7 @@ It was a bold and practical way to reach the neighborhood.
 To finish the day, we went to an all-you-can-eat Brazilian pizza place. They kept bringing out pizza, pasta, and 
 even dessert pizzas. Definitely a solid end to a packed day.
 
-##### 2025-03-24 (Monday)
+##### 2025-03-24 (Mon)
 Spent the morning weedwhacking the orchard up on the mountain—good weather and a solid few hours of work.
 
 Later in the day, a missionary couple, Ellis and Tulia, arrived. They’re heading back north today to 
@@ -150,7 +150,7 @@ Ellis and Tulia have invited us to stay at their beach house sometime. They’re
 mission work as Jim and Guta—offering a place for missionaries to rest and recharge. Should be a good 
 connection for the future.
 
-##### 2025-03-25 (Tuesday)
+##### 2025-03-25 (Tue)
 Wrapped up mowing the rest of the orchard this afternoon. It’s good to have that off the list. Meanwhile, my wife tackled another storage area downstairs. She got it completely organized, and it’s now turned into a usable workshop space.
 
 The kids were in the pool nearly all day—probably got a little too much sun.
