@@ -162,17 +162,27 @@ friends I had known all my life were sitting around playing cards. But these Chr
 
 This is the kind of testimony I like to hear. 
 
-##### 2025-03-26 (Wednesday)
+##### 2025-03-26 (Wed)
 Jim was sick today—he caught whatever Guta had been dealing with earlier, so he stayed in bed and rested. Jessica and I finished putting up the soccer net, which was a bit of a job but good to have done.
 
 We also met Helana (pronounced Elana), a pastor’s wife. She joined us for lunch, and it was a good chance to hear more about her life and ministry here.
 
-##### 2025-03-27 (Thursday)
+##### 2025-03-27 (Thu)
 This morning, Guta brought down some traditional cheese rolls and chimarrão—Brazilian tea served in a gourd and drunk through a silver straw called a bomba. I worked on her computer for a while and helped get things running better.
 
 Later, we visited Eduardo and Joelia’s home for a meal. They’re fellow believers and showed real hospitality. The food was traditional Brazilian steakhouse style—lots of meat served straight off the grill. I tried chicken hearts for the first time, and they were actually great. The flan dessert was also spot-on. Everything they served was excellent.
 
 While we ate, we had some good conversation and talked through parts of the Bible together. Jim was still under the weather and stayed home.
 
-##### 2025-03-28 (Friday)
-Today, Guta wasn’t feeling well and couldn’t keep any food down. Jim is doing better now and has been taking care of her. A quiet day overall as everyone focuses on resting and recovering.
+##### 2025-03-28 (Fri)
+Today had a bit of a rough start—Maria wasn’t feeling well and couldn’t keep any food down. Still, Jim kindly decided to take us out for lunch at Caminho do Trem in Farroupilha, which was a great experience. Afterward, he drove us up to a vineyard at the top of a mountain where we got to enjoy an incredible view of the surrounding mountains and the meeting point of two rivers. On the way, we even saw a tarantula crossing the road—definitely a memorable sight. Later in the day, we stopped at Pietrobelli to see the butchers one last time and picked up some bombas—silver tea strainer straws—as souvenirs. In the evening, we took care of dinner ourselves so Jim and Guta could relax and get some rest. It was a full, beautiful day.
+
+##### 2025-03-2829 (Sat)
+We woke up this morning to find out our flight had been changed to leave four hours earlier than planned. Thankfully, with Jim and Guta’s help, we got everything sorted without too much stress. Guta, who’s feeling much better now, made us a delicious lunch before she and Jim rested for the afternoon. Jessica finished cleaning up the last workshop and managed to get the final board up in the vineyard. The kids enjoyed one last swim while Frank practiced sharing the Gospel in Portuguese. For dinner, Jim and Guta brought down a build-your-own sandwich spread—simple and perfect for the night. Everything felt like it was coming together and wrapping up nicely.
+
+
+##### 2025-03-30 (Sun)
+The day started with booking our seats for tomorrow’s flights, making things feel very real. We went to PIB Caxias for church one final time. It was hard to say goodbye, especially with about a dozen kind people offering to have us over afterward. As much as we appreciated the invites, we knew we needed to spend the time packing and resting—we had to be up at 12:30 a.m. for the trip to the airport. Jim and Guta treated us to lunch at Tulipa, another great buffet, and then took us to see one last beautiful view overlooking Caxias do Sul. On the way back, we saw a giant sculpture of Jesus’ face being built—an unforgettable sight. Once home, we finished packing, cleaned up, and were in bed by 6 p.m., ready for the journey ahead.
+
+##### 2025-03-31 (Mon)
+The day started early—very early. We were up at 12:30 a.m. and on the road by 1, making it to Porto Alegre airport around 3 a.m. Our first flight left at 5:35 a.m. to São Paulo (Campinas), and after a short layover, we caught our second flight at 10:15 a.m. We were pleasantly surprised with great meals and snacks on board, though the flight was a little bumpy at times. Eventually, we landed in Orlando, where we were picked up and began the final leg of the journey home. After a stop for smoothies and Chick-fil-A, we arrived home around 10 p.m.—tired but thankful to be back.
