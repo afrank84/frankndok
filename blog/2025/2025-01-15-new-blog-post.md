@@ -15,6 +15,8 @@ I have not created or maintained a blog for at least 10 years. However, I do wri
     - Just clone ```git clone yourRepoHere``` and run command: ```npm start```
 
 ### New Years goals
+![image](https://github.com/user-attachments/assets/c8878ba2-dcdd-4774-9a43-c666871d3a63)
+
 - Dedicated Bible time everyday
 - Dedicated Book reading time everyday
 - Dedicated Exercise everyday
