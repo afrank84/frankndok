@@ -22,6 +22,9 @@ This month also brought loss, as we said goodbye to a dear brother, Bill. While 
 
 
 ### Brazil
+
+![image](https://github.com/user-attachments/assets/a48bc2f8-b899-4b86-8cc2-a028bb5bc440)
+
 #### Pre-Arrival
 As a family, we’ve been working to get everything in order as we prepare for our trip to Brazil. Making sure all our ducks are in a row, packed, and ready to go has been a process, but we’re getting there! I’ve also been practicing sharing the Gospel entirely in Portuguese and feel pretty comfortable with a basic presentation now. It’s been a challenge, but a rewarding one.
 
