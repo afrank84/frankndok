@@ -30,17 +30,16 @@ I believe in grace, that salvation is a gift, not earned by works, but received 
 In all things, I place my trust in God, seeking to walk faithfully until the day I see Him face to face.
 
 ### Career & Professional Trade  
+I work in technology, where the details can sometimes be complex and challenging, even for experienced professionals. My career began in web design, advertising, and marketing, but in time, I was led into DevOps, where I now focus on automation, scripting, and infrastructure management.
 
-I work in technology, dealing with technical details that can sometimes be a lot to follow, even for experienced professionals. My career began in web design, advertising, and marketing before transitioning into DevOps, where I now focus heavily on automation, scripting, and infrastructure management.  
+More recently, I’ve been asked to step into security work to help meet specific needs. Recognizing my own limitations in networking and security, I am committing 2025 to learning and growing in those areas, trusting that each step will be guided and strengthened by God's provision.
 
-More recently, I’ve been pulled into security to meet certain needs at work. Since networking and security aren’t my strongest areas, I’ve decided to fully immerse myself in that field throughout 2025, sharpening my skills and expanding my expertise.  
+Rather than specializing narrowly, I’ve been blessed with a variety of experiences throughout my life — from infantry training to stock trading, building a house to learning languages, playing instruments to troubleshooting technical problems. In each case, God has used these opportunities to grow adaptability, resourcefulness, and perseverance.
 
-I do not believe in strict specialization. Instead, I have acquired a diverse and unique set of skills over my lifetime, equipping me for whatever challenges arise. From infantry combat to stock trading, building a house to learning languages, playing instruments to problem-solving in tech, each experience has broadened my abilities and strengthened my adaptability.  
-
-In every scenario, I strive to be prepared “for such a time as this” (Esther 4:14), knowing that nothing in my journey has been wasted, but rather shaped for a greater purpose.
+I believe that none of these experiences have been wasted. Each has been preparing me "for such a time as this" (Esther 4:14), shaping me for purposes beyond my own understanding.
 
 # Hobbies
-Gardening, hiking, technology, and entrepreneurship. Whether it's growing food, exploring the outdoors, diving into new tech projects, or building something from the ground up, I enjoy learning, creating, and solving problems in every aspect of life.
+Gardening, hiking, technology, and entrepreneurship. I find joy in growing food, exploring the outdoors, working on new technology projects, and building things from the ground up — seeing each opportunity as a chance to learn, create, and steward the gifts God has given.
 
 
 
