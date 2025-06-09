@@ -27,7 +27,7 @@
 | **Evangelism & Mission**         | Obey Great Commission (Matt 28:19–20)                     | Indifference or opposition                     | Ministry hindered, spiritual isolation               |
 | **Handling Suffering**           | Trust God’s sovereignty (Rom 8:28)                        | Bitterness, despair, blame                     | Division in crisis, lack of shared faith             |
 | **Modesty & Conduct**            | Humility in dress and speech (1 Tim 2:9; 1 Pet 3:3–4)     | Self-expression, sensuality                    | Jealousy, insecurity, shame                          |
-| **Pornography & Lust**           | Sinful, destroys intimacy (Matt 5:28; Job 31:1)           | Harmless or normal                             | Betrayal, intimacy breakdown, addiction              |
+| **Adultry (Biblical Def.) & Lust**           | Sinful, destroys intimacy (Matt 5:28; Job 31:1)           | Harmless or normal                             | Betrayal, intimacy breakdown, addiction              |
 | **Substance Use / Addiction**    | Body is a temple (1 Cor 6:19–20)                          | Personal freedom                               | Abuse, irresponsibility, broken trust                |
 | **Work-Life Balance**            | Provide, but prioritize family (1 Tim 5:8)                | Career-driven                                  | Spouse feels neglected, emotional drift              |
 | **Social Media Boundaries**      | Guard heart, avoid lust and pride (Prov 4:23)             | Open flirting, attention-seeking               | Infidelity, secrecy, disrespect                      |
