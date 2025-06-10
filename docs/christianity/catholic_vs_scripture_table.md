@@ -1,0 +1,19 @@
+# Catholic Practices/Beliefs vs Scripture
+
+📜 Table: Roman Catholic Beliefs/Practices Contradicted by Scripture (KJV)
+
+| **Catholic Belief or Practice**                       | **KJV Scripture**                                                                                                    | **Biblical Conflict / Explanation**                                   |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Praying to Mary or Saints**                         | *1 Timothy 2:5* – "For there is one God, and one mediator between God and men, the man Christ Jesus."                | Jesus is the only mediator; praying to others is not biblical.        |
+| **Calling Priests “Father”**                          | *Matthew 23:9* – "And call no man your father upon the earth: for one is your Father, which is in heaven."           | Jesus forbids religious titles like “Father” for spiritual leaders.   |
+| **Purgatory**                                         | *Hebrews 9:27* – "And as it is appointed unto men once to die, but after this the judgment."                         | No mention of a purging place between death and judgment.             |
+| **The Pope as Christ’s Vicar**                        | *Colossians 1:18* – "And he is the head of the body, the church..."                                                  | Christ alone is the head of the Church. No biblical office of Pope.   |
+| **Transubstantiation (literal body/blood of Christ)** | *John 6:63* – "...the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life." | Jesus spoke spiritually, not literally, about eating His flesh.       |
+| **Confession to Priests**                             | *1 John 1:9* – "If we confess our sins, he is faithful and just to forgive us our sins..."                           | We confess directly to God, not through a human intermediary.         |
+| **Veneration of Images and Statues**                  | *Exodus 20:4-5* – "Thou shalt not make... any graven image... thou shalt not bow down thyself to them..."            | Worship or veneration of images is forbidden in the Ten Commandments. |
+| **Salvation by Works + Grace**                        | *Ephesians 2:8-9* – "For by grace are ye saved through faith... not of works..."                                     | Salvation is by grace alone through faith, not earned by works.       |
+| **Immaculate Conception of Mary**                     | *Romans 3:23* – "For all have sinned, and come short of the glory of God;"                                           | All humans (except Christ) are sinners; Mary is not sinless.          |
+| **Rosary Repetition (Hail Mary, etc.)**               | *Matthew 6:7* – "But when ye pray, use not vain repetitions..."                                                      | Repetitive prayers like the rosary contradict Jesus' instruction.     |
+| **Baptism of Infants for Salvation**                  | *Acts 2:38* – "Repent, and be baptized..."                                                                           | Baptism follows personal repentance, not administered to infants.     |
+| **Elevating Tradition Equal to Scripture**            | *Mark 7:13* – "Making the word of God of none effect through your tradition..."                                      | Human tradition must not override God’s Word.                         |
+| **Assumption of Mary** (not in Bible)                 | *Hebrews 11:5* – Enoch’s assumption is mentioned, Mary’s is not.                                                     | No scriptural basis for Mary being taken bodily into heaven.          |
