@@ -1,4 +1,5 @@
-# Transubstantiation — A Biblical Examination
+# Transubstantiation
+ — A Biblical Examination
 
 **John 6:63 (KJV)**
 

@@ -1,5 +1,5 @@
-# The Pope as Christ’s Vicar — A Biblical Examination
-
+# The Pope as Christ’s Vicar
+ — A Biblical Examination
 **Colossians 1:18 (KJV)**
 
 > “And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.”

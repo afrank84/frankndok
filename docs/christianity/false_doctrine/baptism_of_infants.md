@@ -1,5 +1,5 @@
-# Baptism of Infants for Salvation — A Biblical Examination
-
+# Baptism of Infants for Salvation
+— A Biblical Examination
 **Acts 2:38 (KJV)**
 
 > “Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.”

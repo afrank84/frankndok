@@ -1,5 +1,5 @@
-# Elevating Tradition Equal to Scripture — A Biblical Examination
-
+# Elevating Tradition Equal to Scripture 
+— A Biblical Examination
 **Mark 7:13 (KJV)**
 
 > “Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.”

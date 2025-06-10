@@ -1,5 +1,5 @@
-# Immaculate Conception of Mary — A Biblical Examination
-
+# Immaculate Conception of Mary 
+— A Biblical Examination
 **Romans 3:23 (KJV)**
 
 > “For all have sinned, and come short of the glory of God;”
