@@ -29,11 +29,15 @@
     <label>Assignees (comma-separated)</label>
     <input id="assignees" />
 
-    <!-- ✅ Explicitly include the token input -->
+    <!-- Hidden field expected by Turnstile -->
     <input type="hidden" name="cf-turnstile-response" />
 
-    <!-- ✅ Turnstile Widget -->
-    <div class="cf-turnstile" data-sitekey="0x4AAAAAABgziybIjmMUIuVs"></div>
+    <!-- ✅ Turnstile Widget with visible checkbox -->
+    <div class="cf-turnstile"
+         data-sitekey="0x4AAAAAABgziybIjmMUIuVs"
+         data-size="normal"
+         data-theme="light">
+    </div>
 
     <button type="submit">Submit Issue</button>
   </form>
@@ -47,12 +51,11 @@
       const responseBox = document.getElementById('response');
       responseBox.textContent = 'Submitting...';
 
-      // ✅ Collect Turnstile token
       const captchaToken = document.querySelector('[name="cf-turnstile-response"]')?.value;
-      console.log("Captcha token:", captchaToken);  // helpful debug
+      console.log("Captcha token:", captchaToken);  // for debug
 
       const payload = {
-        repo: "afrank84/feedback-board", // ✅ Hardcoded
+        repo: "afrank84/feedback-board", // ✅ hardcoded
         title: document.getElementById('title').value.trim(),
         body: document.getElementById('body').value.trim(),
         labels: document.getElementById('labels').value.split(',').map(s => s.trim()).filter(Boolean),
