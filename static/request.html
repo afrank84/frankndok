@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Submit an Issue</title>
+  <meta charset="UTF-8" />
+  <title>Submit a GitHub Issue</title>
   <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
   <style>
     body { font-family: sans-serif; max-width: 600px; margin: 2rem auto; padding: 1rem; }
@@ -14,25 +14,25 @@
 </head>
 <body>
   <a href="/" style="text-decoration: none;">← Back to Site</a>
-  <h1>📬 Submit a GitHub Issue</h1>
+  <h1>📮 Submit a GitHub Issue</h1>
 
   <form id="issueForm">
     <label>GitHub Repo (owner/repo)</label>
-    <input required id="repo">
+    <input required id="repo" value="afrank84/feedback-board" />
 
     <label>Issue Title</label>
-    <input required id="title">
+    <input required id="title" />
 
     <label>Issue Description</label>
     <textarea id="body" rows="4"></textarea>
 
     <label>Labels (comma-separated)</label>
-    <input id="labels">
+    <input id="labels" />
 
     <label>Assignees (comma-separated)</label>
-    <input id="assignees">
+    <input id="assignees" />
 
-    <div class="cf-turnstile" data-sitekey="0x4AAAAAABgziybIjmMUIuVs"></div>
+    <div class="cf-turnstile" data-sitekey="YOUR_SITE_KEY_HERE"></div>
 
     <button type="submit">Submit Issue</button>
   </form>
@@ -46,7 +46,7 @@
       const responseBox = document.getElementById('response');
       responseBox.textContent = 'Submitting...';
 
-      const turnstileToken = document.querySelector('[name="cf-turnstile-response"]')?.value;
+      const captchaToken = document.querySelector('[name="cf-turnstile-response"]')?.value;
 
       const payload = {
         repo: document.getElementById('repo').value.trim(),
@@ -54,7 +54,7 @@
         body: document.getElementById('body').value.trim(),
         labels: document.getElementById('labels').value.split(',').map(s => s.trim()).filter(Boolean),
         assignees: document.getElementById('assignees').value.split(',').map(s => s.trim()).filter(Boolean),
-        captcha_token: turnstileToken
+        captcha_token: captchaToken
       };
 
       try {
@@ -64,9 +64,16 @@
           body: JSON.stringify(payload)
         });
 
-        const result = await res.json();
+        let result;
+        const isJSON = res.headers.get('content-type')?.includes('application/json');
+        if (isJSON) {
+          result = await res.json();
+        } else {
+          result = await res.text();
+        }
+
         if (res.ok) {
-          responseBox.textContent = `✅ Success: ${result.html_url}`;
+          responseBox.textContent = `✅ Success: ${result.html_url || result}`;
         } else {
           responseBox.textContent = `❌ Error: ${result.error || JSON.stringify(result)}`;
         }
