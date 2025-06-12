@@ -17,9 +17,6 @@
   <h1>📮 Submit a GitHub Issue</h1>
 
   <form id="issueForm">
-    <label>GitHub Repo (owner/repo)</label>
-    <input required id="repo" value="afrank84/feedback-board" />
-
     <label>Issue Title</label>
     <input required id="title" />
 
@@ -32,7 +29,11 @@
     <label>Assignees (comma-separated)</label>
     <input id="assignees" />
 
-    <div class="cf-turnstile" data-sitekey="YOUR_SITE_KEY_HERE"></div>
+    <!-- ✅ Explicitly include the token input -->
+    <input type="hidden" name="cf-turnstile-response" />
+
+    <!-- ✅ Turnstile Widget -->
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAABgziybIjmMUIuVs"></div>
 
     <button type="submit">Submit Issue</button>
   </form>
@@ -46,10 +47,12 @@
       const responseBox = document.getElementById('response');
       responseBox.textContent = 'Submitting...';
 
+      // ✅ Collect Turnstile token
       const captchaToken = document.querySelector('[name="cf-turnstile-response"]')?.value;
+      console.log("Captcha token:", captchaToken);  // helpful debug
 
       const payload = {
-        repo: document.getElementById('repo').value.trim(),
+        repo: "afrank84/feedback-board", // ✅ Hardcoded
         title: document.getElementById('title').value.trim(),
         body: document.getElementById('body').value.trim(),
         labels: document.getElementById('labels').value.split(',').map(s => s.trim()).filter(Boolean),
