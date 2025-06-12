@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Submit an Issue</title>
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 2rem auto; padding: 1rem; }
+    label { display: block; margin-top: 1rem; }
+    input, textarea { width: 100%; padding: 8px; margin-top: 0.5rem; }
+    button { margin-top: 1rem; padding: 10px 15px; font-size: 16px; }
+    pre { background: #f0f0f0; padding: 10px; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <a href="/" style="text-decoration: none;">← Back to Site</a>
+  <h1>📬 Submit a GitHub Issue</h1>
+
+  <form id="issueForm">
+    <label>GitHub Repo (owner/repo)</label>
+    <input required id="repo">
+
+    <label>Issue Title</label>
+    <input required id="title">
+
+    <label>Issue Description</label>
+    <textarea id="body" rows="4"></textarea>
+
+    <label>Labels (comma-separated)</label>
+    <input id="labels">
+
+    <label>Assignees (comma-separated)</label>
+    <input id="assignees">
+
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAABgziybIjmMUIuVs"></div>
+
+    <button type="submit">Submit Issue</button>
+  </form>
+
+  <pre id="response">Waiting...</pre>
+
+  <script>
+    document.getElementById('issueForm').addEventListener('submit', async function (e) {
+      e.preventDefault();
+
+      const responseBox = document.getElementById('response');
+      responseBox.textContent = 'Submitting...';
+
+      const turnstileToken = document.querySelector('[name="cf-turnstile-response"]')?.value;
+
+      const payload = {
+        repo: document.getElementById('repo').value.trim(),
+        title: document.getElementById('title').value.trim(),
+        body: document.getElementById('body').value.trim(),
+        labels: document.getElementById('labels').value.split(',').map(s => s.trim()).filter(Boolean),
+        assignees: document.getElementById('assignees').value.split(',').map(s => s.trim()).filter(Boolean),
+        captcha_token: turnstileToken
+      };
+
+      try {
+        const res = await fetch('/submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+
+        const result = await res.json();
+        if (res.ok) {
+          responseBox.textContent = `✅ Success: ${result.html_url}`;
+        } else {
+          responseBox.textContent = `❌ Error: ${result.error || JSON.stringify(result)}`;
+        }
+      } catch (err) {
+        responseBox.textContent = `❌ Network error: ${err.message}`;
+      }
+    });
+  </script>
+</body>
+</html>
