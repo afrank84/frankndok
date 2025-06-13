@@ -48,8 +48,17 @@ export async function onRequestPost(context) {
     });
   }
 
+  let reqBody;
   try {
-    const reqBody = await context.request.json();
+    reqBody = await context.request.json();
+  } catch (jsonErr) {
+    return new Response(JSON.stringify({ error: "Invalid JSON body" }), {
+      status: 400,
+      headers: { 'Content-Type': 'application/json' }
+    });
+  }
+
+  try {
     const { repo, title, body, labels = [], assignees = [], captcha_token } = reqBody;
 
     // CAPTCHA validation
@@ -92,7 +101,7 @@ export async function onRequestPost(context) {
     });
 
   } catch (err) {
-    return new Response(JSON.stringify({ error: err.message }), {
+    return new Response(JSON.stringify({ error: err.message || "Unknown server error" }), {
       status: 500,
       headers: { 'Content-Type': 'application/json' }
     });
