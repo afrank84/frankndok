@@ -41,49 +41,52 @@
 
   <pre id="response">📡 Waiting...</pre>
 
-  <script>
-    document.getElementById('issueForm').addEventListener('submit', async function (e) {
-      e.preventDefault();
+<script>
+  document.getElementById('issueForm').addEventListener('submit', async function (e) {
+    e.preventDefault();
 
-      const responseBox = document.getElementById('response');
-      responseBox.textContent = 'Submitting...';
+    const responseBox = document.getElementById('response');
+    responseBox.textContent = 'Submitting...';
 
-      const captchaToken = document.querySelector('[name="cf-turnstile-response"]')?.value;
-      console.log("Captcha token:", captchaToken);  // for debug
+    const captchaToken = document.querySelector('[name="cf-turnstile-response"]')?.value;
 
-      const payload = {
-        repo: "afrank84/feedback-board", // ✅ hardcoded
-        title: document.getElementById('title').value.trim(),
-        body: document.getElementById('body').value.trim(),
-        labels: document.getElementById('labels').value.split(',').map(s => s.trim()).filter(Boolean),
-        assignees: document.getElementById('assignees').value.split(',').map(s => s.trim()).filter(Boolean),
-        captcha_token: captchaToken
-      };
+    const payload = {
+      repo: "afrank84/feedback-board", // or any repo
+      title: document.getElementById('title').value.trim(),
+      body: document.getElementById('body').value.trim(),
+      labels: document.getElementById('labels').value.split(',').map(s => s.trim()).filter(Boolean),
+      assignees: document.getElementById('assignees').value.split(',').map(s => s.trim()).filter(Boolean),
+      captcha_token: captchaToken
+    };
 
-      try {
-        const res = await fetch('/submit', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(payload)
-        });
+    try {
+      const res = await fetch('/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
 
-        let result;
-        const isJSON = res.headers.get('content-type')?.includes('application/json');
-        if (isJSON) {
-          result = await res.json();
-        } else {
-          result = await res.text();
-        }
+      const contentType = res.headers.get('content-type') || '';
+      let result;
 
-        if (res.ok) {
-          responseBox.textContent = `✅ Success: ${result.html_url || result}`;
-        } else {
-          responseBox.textContent = `❌ Error: ${result.error || JSON.stringify(result)}`;
-        }
-      } catch (err) {
-        responseBox.textContent = `❌ Network error: ${err.message}`;
+      if (contentType.includes('application/json')) {
+        result = await res.json();
+      } else {
+        const raw = await res.text();
+        responseBox.textContent = `❌ Server returned unexpected content:\n${raw}`;
+        return;
       }
-    });
-  </script>
+
+      if (res.ok) {
+        responseBox.textContent = `✅ Success: ${result.html_url || "Issue created."}`;
+      } else {
+        responseBox.textContent = `❌ Error: ${result.error || JSON.stringify(result)}`;
+      }
+    } catch (err) {
+      responseBox.textContent = `❌ Network error: ${err.message}`;
+    }
+  });
+</script>
+
 </body>
 </html>
