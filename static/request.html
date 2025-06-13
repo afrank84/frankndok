@@ -48,10 +48,11 @@
     const responseBox = document.getElementById('response');
     responseBox.textContent = 'Submitting...';
 
+    // Step 1: Gather form input
     const captchaToken = document.querySelector('[name="cf-turnstile-response"]')?.value;
 
     const payload = {
-      repo: "afrank84/feedback-board", // or any repo
+      repo: "afrank84/feedback-board",
       title: document.getElementById('title').value.trim(),
       body: document.getElementById('body').value.trim(),
       labels: document.getElementById('labels').value.split(',').map(s => s.trim()).filter(Boolean),
@@ -60,33 +61,43 @@
     };
 
     try {
+      // Step 2: Submit request and get response text (always treat as plain text first)
       const res = await fetch('/submit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
       });
 
-      const contentType = res.headers.get('content-type') || '';
-      let result;
+      const contentType = res.headers.get("content-type") || "";
+      const rawText = await res.text();
 
-      if (contentType.includes('application/json')) {
-        result = await res.json();
+      // Step 3: Parse JSON manually, with full fallback
+      let result;
+      if (contentType.includes("application/json")) {
+        try {
+          result = JSON.parse(rawText);
+        } catch (jsonErr) {
+          responseBox.textContent = `❌ Server claimed JSON, but it was malformed:\n${rawText}`;
+          return;
+        }
       } else {
-        const raw = await res.text();
-        responseBox.textContent = `❌ Server returned unexpected content:\n${raw}`;
+        responseBox.textContent = `❌ Server returned unexpected content-type:\n${rawText}`;
         return;
       }
 
+      // Step 4: Handle parsed JSON
       if (res.ok) {
         responseBox.textContent = `✅ Success: ${result.html_url || "Issue created."}`;
       } else {
         responseBox.textContent = `❌ Error: ${result.error || JSON.stringify(result)}`;
       }
-    } catch (err) {
-      responseBox.textContent = `❌ Network error: ${err.message}`;
+
+    } catch (networkErr) {
+      responseBox.textContent = `❌ Network error: ${networkErr.message}`;
     }
   });
 </script>
+
 
 </body>
 </html>
