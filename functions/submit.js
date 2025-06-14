@@ -37,73 +37,38 @@ async function verifyCaptcha(token, ip, secretKey) {
 }
 
 export async function onRequestPost(context) {
-  const GITHUB_PAT = context.env.GITHUBPAT_FEEDBACKBOARD;
-  const TURNSTILE_SECRET_KEY = context.env.TURNSTILE_SECRET_KEY;
-  const ip = context.request.headers.get("CF-Connecting-IP") || "unknown";
+  const GITHUB_PAT = "ghp_..."; // hardcoded or from context.env
+  const reqBody = await context.request.json();
 
-  if (isRateLimited(ip)) {
-    return new Response(JSON.stringify({ error: "Rate limit exceeded" }), {
-      status: 429,
-      headers: { 'Content-Type': 'application/json' }
-    });
-  }
+  const { repo, title, body, labels = [], assignees = [] } = reqBody;
+  const [owner, repoName] = repo.split('/');
 
-  let reqBody;
+  const githubRes = await fetch(`https://api.github.com/repos/${owner}/${repoName}/issues`, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${GITHUB_PAT}`,
+      Accept: 'application/vnd.github+json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      title,
+      body,
+      ...(labels.length && { labels }),
+      ...(assignees.length && { assignees })
+    })
+  });
+
+  const resultText = await githubRes.text();
+  let json;
   try {
-    reqBody = await context.request.json();
-  } catch (jsonErr) {
-    return new Response(JSON.stringify({ error: "Invalid JSON body" }), {
-      status: 400,
-      headers: { 'Content-Type': 'application/json' }
-    });
-  }
-
-  try {
-    const { repo, title, body, labels = [], assignees = [], captcha_token } = reqBody;
-
-    // CAPTCHA validation
-    const captchaPassed = await verifyCaptcha(captcha_token, ip, TURNSTILE_SECRET_KEY);
-    if (!captchaPassed) {
-      return new Response(JSON.stringify({ error: "CAPTCHA failed" }), {
-        status: 403,
-        headers: { 'Content-Type': 'application/json' }
-      });
-    }
-
-    const [owner, repoName] = repo.split('/');
-    if (!owner || !repoName) {
-      return new Response(JSON.stringify({ error: "Invalid repo format. Use owner/repo." }), {
-        status: 400,
-        headers: { 'Content-Type': 'application/json' }
-      });
-    }
-
-    const githubResponse = await fetch(`https://api.github.com/repos/${owner}/${repoName}/issues`, {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${GITHUB_PAT}`,
-        Accept: 'application/vnd.github+json',
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        title,
-        body,
-        ...(labels.length && { labels }),
-        ...(assignees.length && { assignees })
-      })
-    });
-
-    const result = await githubResponse.json();
-
-    return new Response(JSON.stringify(result), {
-      status: githubResponse.status,
-      headers: { 'Content-Type': 'application/json' }
-    });
-
+    json = JSON.parse(resultText);
   } catch (err) {
-    return new Response(JSON.stringify({ error: err.message || "Unknown server error" }), {
-      status: 500,
-      headers: { 'Content-Type': 'application/json' }
-    });
+    json = { error: "GitHub did not return valid JSON", raw: resultText };
   }
+
+  return new Response(JSON.stringify(json), {
+    status: githubRes.status,
+    headers: { 'Content-Type': 'application/json' }
+  });
 }
+
