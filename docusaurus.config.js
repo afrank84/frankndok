@@ -90,6 +90,11 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            label: 'Feedback',
+            to: '/feedback', // OR use `href: 'https://...'` to link externally
+            position: 'left',
+          },
+          {
             href: 'https://github.com/afrank84/frankndok/tree/gh_pages',
             label: 'GitHub',
             position: 'right',
