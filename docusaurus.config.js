@@ -91,8 +91,21 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             label: 'Feedback',
-            to: '/feedback', // OR use `href: 'https://...'` to link externally
             position: 'left',
+            items: [
+              {
+                label: 'Submit Request',
+                to: '/feedback', // local page with embedded Google Form
+              },
+              {
+                label: 'Contact Me',
+                href: '#',
+              },
+              {
+                label: 'Report a Bug',
+                href: '#',
+              },
+            ],
           },
           {
             href: 'https://github.com/afrank84/frankndok/tree/gh_pages',
