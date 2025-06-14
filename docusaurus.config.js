@@ -90,13 +90,13 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            label: 'Feedback',
+            label: 'Contact',
             position: 'left',
             items: [
               {
                 label: 'Submit Request',
                 to: '/feedback', // local page with embedded Google Form
-              },
+              },/*
               {
                 label: 'Contact Me',
                 href: '#',
@@ -104,7 +104,7 @@ const config = {
               {
                 label: 'Report a Bug',
                 href: '#',
-              },
+              },*/
             ],
           },
           {
