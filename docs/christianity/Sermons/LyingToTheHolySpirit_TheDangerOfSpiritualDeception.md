@@ -1,3 +1,9 @@
+---
+title: Lying to the Holy Spirit
+authors: [frank]
+tags: [ministry]
+---
+
 ## **Sermon Title: "Lying to the Holy Spirit: The Danger of Spiritual Deception"**
 
 ### Scripture: **Acts 5:1–11 (focus on v.3–4)**
@@ -31,7 +37,7 @@ Why is that significant?
 
 Let’s bring this into our world—because Ananias isn’t just an ancient warning. It’s a mirror for the modern church.
 
-Here are six ways people today might lie to the Holy Spirit:
+Here are just some of the ways people today might lie to the Holy Spirit:
 
 **a) False Worship or Giving to Impress Others**
 Giving or serving just to be seen, not to glorify God.
@@ -94,6 +100,3 @@ Let’s be a church where the Holy Spirit is not grieved—but welcomed.
 
 “Holy Spirit, search our hearts today. Remove all falsehood, pride, and performance. Help us to be honest with You, with ourselves, and with one another. Make us a church that walks in truth and integrity, so Your presence can dwell among us powerfully. In Jesus’ name, amen.”
 
----
-
-Let me know if you want a second sermon in the same style for the rest of Acts 5.
