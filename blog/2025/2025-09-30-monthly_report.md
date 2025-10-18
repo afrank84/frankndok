@@ -1,5 +1,5 @@
 ---
-title: 2025-08-31 | September Report
+title: 2025-09-31 | September Report
 authors: [frank]
 tags: [life, ministry, technology]
 ---
