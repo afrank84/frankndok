@@ -9,7 +9,7 @@ tags: [life, ministry, technology]
 
 I had a surprise visit from Jim, who does full-time ministry in Brazil. He was in the U.S. for about a week handling some logistics. You can read more about what he does at [https://sitioshalom.org/blog](https://sitioshalom.org/blog).
 
-Thanksgiving was a blast this year. We ate leftovers well into the end of the month and even into December. It also turned into a LAN party with some of the volunteers from Camp Good News. Our families have been doing Thanksgiving together for several years now.
+Thanksgiving was a blast this year. We ate leftovers well into the end of the month and even into December. It also turned into a LAN party with some of the volunteers from [Camp Good News](https://campgoodnewsfl.com/). Our families have been doing Thanksgiving together for several years now.
 
 Youth ministry has been going well. I genuinely enjoy my class this year, which makes a big difference.
 
