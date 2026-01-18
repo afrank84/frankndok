@@ -1,4 +1,4 @@
-### Rules when Dealing with AI and Godot
+## Rules when Dealing with AI and Godot
 
 - Containment over refactor
 - Shipping over elegance
