@@ -9,7 +9,8 @@ tags: [life, ministry, technology]
 
 We received word from one of our ministry partners that persecution in India is increasing. I was shown graphic images of one of the victims. It was sobering. Prayer is needed, and practical support is needed as well. Unfortunately, the news came at the very end of the year, and finances take time to reach families on the ground.
 
-On a lighter note, the kids participated in the church Christmas play. My daughter served as the news anchor, and my son played multiple roles, mostly as an angel. I’m attaching the link for anyone who wants to see it. [facebook.com/share/v/1AtQnN4A19/](facebook.com/share/v/1AtQnN4A19/) Requires Facebook for now, might be able to watch it by clicking X on sign in. 
+On a lighter note, the kids participated in the church Christmas play. My daughter served as the news anchor, and my son played multiple roles, mostly as an angel. I’m attaching the link for anyone who wants to see it. [Watch video](https://www.facebook.com/share/v/1AtQnN4A19/)
+Requires Facebook for now, might be able to watch it by clicking X on sign in. 
 
 ### Technology
 
