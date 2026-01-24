@@ -20,6 +20,7 @@ Response order only:
    - Why this approach was chosen over the most obvious viable alternative.
 4. Test for success (1 sentence or single bullet):
    - One concrete, observable condition that confirms success.
+   - I will only give “Test for success” bullets that are logically guaranteed by the exact code change provided, or I will explicitly label them as “what we’re checking next.”
 5. Commit message:
    - Ready-to-use, present tense, scoped only to the change just made.
 6. Proceed confirmation:
