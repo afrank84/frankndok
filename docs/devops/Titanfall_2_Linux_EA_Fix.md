@@ -4,6 +4,7 @@ title: Fix: Titanfall 2 on Steam (Linux / Pop!_OS)
 EA App download loop – game won’t launch
 
 ## Step 1: Force Proton Experimental
+* Note: If you are using Steam as a flatpak, then the flatpack technology isolates software as it's security policy. Meaning that for Steam it not uncommon that the Application (Steam) cannot see the Launcher (EA, or whatever). Use the .deb or another installation for Steam to avoid this. 
 
 1. Open Steam
 2. Library → Titanfall 2
