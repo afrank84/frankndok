@@ -1,3 +1,9 @@
+---
+title: Coram Deo
+authors: [frank]
+tags: [ministry]
+---
+
 ## Coram Deo
 
 A common summary you’ll hear is:  
