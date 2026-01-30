@@ -16,6 +16,21 @@ In Christian theology, it carries a deeper idea:
 - **Genesis 17:1** – “I am the Almighty God; walk before me, and be thou perfect.”  
 - **Psalm 56:13** – “That I may walk before God in the light of the living.”
 
+Big Idea
+- We do not obey to become sheep. <-- Hints the parable of the Lost sheep
+- We obey because we have come to the Shepherd <-- Shows that our world is now changed becuase of relationship.
+
+
+> John 10:27 (KJV) “My sheep hear my voice, and I know them, and they follow me:”
+
+- Three movements:
+  - Hear His voice
+  - Belong to Him
+  - Follow Him
+
+- Coming to the Shepherd establishes relationship; Coram Deo describes how that relationship is lived out daily.
+
+
 --- 
 ### Litmus Test (Coram Deo in Practice)
 - **Obedience without applause**
