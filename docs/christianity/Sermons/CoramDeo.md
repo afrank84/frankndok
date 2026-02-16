@@ -23,8 +23,8 @@ In Christian theology, it carries a deeper idea:
 - **Psalm 56:13** – “That I may walk before God in the light of the living.”
 
 Big Idea
-- We do not obey to become sheep. <-- Hints the parable of the Lost sheep
-- We obey because we have come to the Shepherd <-- Shows that our world is now changed becuase of relationship.
+- We do not obey to become sheep.
+- We obey because we have come to the Shepherd
 
 
 > John 10:27 (KJV) “My sheep hear my voice, and I know them, and they follow me:”
