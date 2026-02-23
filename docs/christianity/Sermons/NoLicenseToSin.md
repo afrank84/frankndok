@@ -24,11 +24,38 @@ Paul does not hesitate.
 
 A man was dying.
 
-His heart was failing. Every breath was effort. Every step felt like collapse. The doctors said there was no hope unless a donor could be found.
+His heart was failing. Every breath was effort. Every step felt like collapse.
+
+He knew it was his poor decisions that had ended him in this hospital bed. Years of abusing his own body had finally stacked up to this moment.
+
+“I’ve probably lived a poor life,” he thought to himself.
+
+None of the people he used to run with were around him now.
+
+Only the beeping of the machine hooked up to him… and some ruckus and noise from down the hall.
+
+He could hear weeping and muffled conversations.
+
+Then silence again.
+
+Nothing but the ventilator.
+
+The doctors had said there was no hope unless a donor could be found.
 
 Then one was.
 
 A young man had died suddenly. His family, in the middle of their grief, chose to donate his organs.
+
+It was the young man down the hall.
+
+He had been on his way home from a youth conference to see his own family.
+
+But he never made it home.
+
+He was hit by a vehicle whose driver was not paying attention.
+
+He had done everything right.  
+But there was no avoiding the crash.
 
 The dying man received that young man’s heart.
 
