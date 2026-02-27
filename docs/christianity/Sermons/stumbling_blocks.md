@@ -7,9 +7,9 @@ tags: [ministry]
 # Stumbling Blocks
 
 ## Theme:
-Christian liberty must always be governed by love.
+Christian liberty must always be governed by neighborly love.
 
-Freedom without love becomes a stumbling block.
+Freedom without neighborly love becomes a stumbling block.
 
 ---
 
@@ -93,14 +93,60 @@ Written to Gentile believers in Corinth, surrounded by pagan temples and idol sa
 
 In both cases:
 The issue was not food.
-The issue was love.
+The issue was neighborly love.
 
 ---
+## V. Hypocrisy and Public Sin
 
-# V. Core Principle
+Imagine a man named Daniel.
+
+He openly professes Christ at work.
+He talks about church.
+He posts Bible verses online.
+
+But:
+He gossips about coworkers.
+He cuts corners when no one is watching.
+He joins crude conversations to “fit in.”
+He gets drunk at the company party.
+A non-Christian coworker named Marcus watches all of this.
+
+Marcus had been quietly curious about Christianity. He had even considered visiting Daniel’s church. But now he concludes:
+
+“If that’s what Christianity produces, I’m not interested.”
+
+Daniel’s behavior becomes a stumbling block — not by encouraging Marcus into a specific sin, but by hardening his heart against the Gospel.
+
+Biblical Principle
+Romans 2:24 (KJV)
+“For the name of God is blasphemed among the Gentiles through you…”
+
+When believers live inconsistently, unbelievers mock God.
+
+Matthew 5:16 (KJV)
+“Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.”
+
+If light does not shine clearly, people do not glorify God — they dismiss Him.
+
+1 Peter 2:12 (KJV)
+“Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works… glorify God…”
+
+Our conduct either removes obstacles to the Gospel or creates them.
+
+## VI. Why This Is Serious
+
+A Christian can:
+Normalize sin in front of unbelievers.
+Model a watered-down version of discipleship.
+Give justification for rejecting Christ.
+Confirm someone’s prejudice against Christianity.
+
+That is a different kind of stumbling block than Romans 14 — but it is just as dangerous.
+
+# VII. Core Principle
 
 Freedom is not the highest Christian value.
-Love is.
+Neighborly love is.
 
 If exercising a right:
 - Confuses
@@ -108,11 +154,11 @@ If exercising a right:
 - Pressures someone against conscience
 - Leads someone back toward former sin
 
-Then love restrains liberty.
+Then neighborly love restrains liberty.
 
 ---
 
-# Closing Thought
+# Closing Thoughts
 
 You are not your own.
 You were bought with a price.
