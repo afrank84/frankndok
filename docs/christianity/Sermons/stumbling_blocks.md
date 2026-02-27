@@ -96,7 +96,7 @@ The issue was not food.
 The issue was neighborly love.
 
 ---
-## V. Hypocrisy and Public Sin
+# V. Hypocrisy and Public Sin
 
 Imagine a man named Daniel.
 
@@ -117,23 +117,23 @@ Marcus had been quietly curious about Christianity. He had even considered visit
 
 Daniel’s behavior becomes a stumbling block — not by encouraging Marcus into a specific sin, but by hardening his heart against the Gospel.
 
-Biblical Principle
-Romans 2:24 (KJV)
+# Biblical Principle
+## Romans 2:24 (KJV)
 “For the name of God is blasphemed among the Gentiles through you…”
 
 When believers live inconsistently, unbelievers mock God.
 
-Matthew 5:16 (KJV)
+## Matthew 5:16 (KJV)
 “Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.”
 
 If light does not shine clearly, people do not glorify God — they dismiss Him.
 
-1 Peter 2:12 (KJV)
+## 1 Peter 2:12 (KJV)
 “Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works… glorify God…”
 
 Our conduct either removes obstacles to the Gospel or creates them.
 
-## VI. Why This Is Serious
+# VI. Why This Is Serious
 
 A Christian can:
 Normalize sin in front of unbelievers.
