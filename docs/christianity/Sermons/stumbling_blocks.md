@@ -17,7 +17,7 @@ Freedom without neighborly love becomes a stumbling block.
 
 Christian freedom begins with ownership.
 
-## 1 Corinthians 6:19–20 (KJV)
+### 1 Corinthians 6:19–20 (KJV)
 
 “What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?
 For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.”
@@ -26,7 +26,7 @@ We do not belong to ourselves.
 We were purchased.
 Therefore, freedom is not self-expression — it is stewardship.
 
-## Romans 14:7–8 (KJV)
+### Romans 14:7–8 (KJV)
 
 “For none of us liveth to himself, and no man dieth to himself.
 For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's.”
@@ -85,10 +85,10 @@ Liberty used carelessly can train someone to silence conviction.
 
 # IV. Historical Context
 
-## Romans 14
+### Romans 14
 Written to believers in Rome — Jews and Gentiles struggling over food laws and holy days.
 
-## 1 Corinthians 8
+### 1 Corinthians 8
 Written to Gentile believers in Corinth, surrounded by pagan temples and idol sacrifices.
 
 In both cases:
@@ -117,18 +117,19 @@ Marcus had been quietly curious about Christianity. He had even considered visit
 
 Daniel’s behavior becomes a stumbling block — not by encouraging Marcus into a specific sin, but by hardening his heart against the Gospel.
 
-# Biblical Principle
-## Romans 2:24 (KJV)
+Biblical Principle
+
+### Romans 2:24 (KJV)
 “For the name of God is blasphemed among the Gentiles through you…”
 
 When believers live inconsistently, unbelievers mock God.
 
-## Matthew 5:16 (KJV)
+### Matthew 5:16 (KJV)
 “Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.”
 
 If light does not shine clearly, people do not glorify God — they dismiss Him.
 
-## 1 Peter 2:12 (KJV)
+### 1 Peter 2:12 (KJV)
 “Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works… glorify God…”
 
 Our conduct either removes obstacles to the Gospel or creates them.
