@@ -117,7 +117,15 @@ Marcus had been quietly curious about Christianity. He had even considered visit
 
 Daniel’s behavior becomes a stumbling block — not by encouraging Marcus into a specific sin, but by hardening his heart against the Gospel.
 
-Biblical Principle
+Question:
+If I went and talked to people who know you (whether coworkers, friends, acquaintances, etc.), how many would say "oh yea, insert_your_name_here is definitely a Christian"?
+
+Notes to Self:
+- Red Solo Cup Account
+- Marine Account
+- Life of Pi
+
+_Biblical Principle:_
 
 ### Romans 2:24 (KJV)
 “For the name of God is blasphemed among the Gentiles through you…”
