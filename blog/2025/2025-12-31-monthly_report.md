@@ -22,6 +22,8 @@ Personally, I’m not impressed with it. That said, people who have playtested i
 
 I’ve also been setting up a local Gitea infrastructure to act as test and build agents. The goal there is straightforward: increase automation and reduce friction across my other projects.
 
+![Alt text](../../images/2025-12-blog.png)
+
 
 ### Homestead
 

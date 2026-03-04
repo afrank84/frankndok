@@ -18,3 +18,5 @@ Another small project I’ve been experimenting with came from watching a talk b
 
 Overall, it has been a mix of coding projects, ministry opportunities, and thinking through some life decisions. Busy, but good.
 
+![Alt text](../../images/jayfrog.gif)
+
