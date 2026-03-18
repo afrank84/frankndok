@@ -77,6 +77,103 @@ Big Idea
     — Micah 6:8 (KJV)
 
 ---
+
+
+### Short answer
+This is to Question number 5
+It can be **both**, but the goal of the Christian life is moving from **obligation → desire**.
+
+---
+
+## 1. Obligation (early stage / discipline)
+
+Sometimes you do the right thing simply because:
+
+* You know it’s right
+* God commands it
+* Your conscience won’t let you ignore it
+
+This is not bad.
+
+In fact, Scripture supports this kind of obedience:
+
+* *“If ye love me, keep my commandments”* — John 14:15
+
+Sometimes obedience comes **before** the feeling.
+
+Examples:
+
+* You don’t feel like forgiving, but you do
+* You don’t feel like praying, but you do
+* You don’t feel like resisting sin, but you do
+
+That’s often obedience through obligation.
+
+---
+
+## 2. Desire (mature stage / transformation)
+
+Over time, something changes.
+
+God begins to shape your heart so that:
+
+* You *want* what is right
+* You *enjoy* obedience
+* Sin starts to feel heavy instead of attractive
+
+This is where verses like:
+
+* *“I delight to do thy will, O my God”* — Psalm 40:8
+* *“For it is God which worketh in you both to will and to do…”* — Philippians 2:13
+
+Now it’s not just:
+
+* “I have to do this”
+
+It becomes:
+
+* “I *want* to do this”
+
+---
+
+## 3. The reality: both exist at the same time
+
+Even mature believers experience both:
+
+* Some days → desire
+* Some days → pure obedience with no feeling
+
+That doesn’t make it fake.
+
+It actually shows your faith isn’t driven by emotion alone.
+
+---
+
+## 4. Why this matters
+
+If someone only operates on **obligation**:
+
+* It can become dry, legalistic, heavy
+
+If someone only operates on **desire**:
+
+* They’ll only obey when they *feel like it*
+
+The healthy balance is:
+
+* Obey even when you don’t feel it
+* Pray for your heart to change so you eventually want it
+
+---
+
+## Simple way to explain it
+
+* Obligation: “God said it, so I’ll do it.”
+* Desire: “I love God, so I want to do it.”
+
+---
+
+
 ## Questions
 
 ### Identity & Personal Walk
