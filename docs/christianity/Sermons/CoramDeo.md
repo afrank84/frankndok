@@ -76,3 +76,49 @@ Big Idea
   - > “He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?”  
     — Micah 6:8 (KJV)
 
+---
+## Questions
+
+### Identity & Personal Walk
+
+1. What does it actually mean to you to “live for Christ” in your daily life?
+2. If someone watched your life for a week, what would they assume you believe?
+3. What spiritual habits (prayer, Bible reading, etc.) have helped you grow the most—and why?
+
+---
+
+### Motivation & Heart
+
+4. Why do you personally follow Christ—fear, love, habit, or something else?
+5. When you do the right thing spiritually, is it usually out of desire or obligation?
+6. What competes most for your attention and devotion right now?
+
+---
+
+### Scripture & Truth (KJV-based thinking)
+
+7. What are some real-life ways you have to put your own wants aside in order to follow Jesus? (Luke 9:23)
+8. How do you understand “be not conformed to this world” (Romans 12:2) practically?
+9. What does “walking in the Spirit” (Galatians 5:16) look like in real decisions?
+
+---
+
+### Struggles & Growth
+
+10. What helps you make the right decision when you know the right thing but don’t feel like doing it?
+11. What do you usually do when you feel distant from God?
+12. What helps you stay consistent in your walk with Christ when life gets busy or distracting?
+
+---
+
+### Influence & Culture
+
+13. How do your friends influence your relationship with Christ?
+14. Where do you feel the most pressure to compromise your faith?
+
+---
+
+### Purpose & Action
+
+15. If you truly lived like Jesus was Lord of every part of your life, what would change first?
+
