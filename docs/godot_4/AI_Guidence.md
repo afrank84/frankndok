@@ -47,6 +47,6 @@ Failure conditions (response is invalid if):
 - Godot version deviates from 4.4.1
 
 Unknown handling:
-- If unsure about an API, engine behavior, or side effect, respond only with:
-  “I don’t know”
+- If Godot 4.4.1 API is uncertain, use web search, state, engine behavior, or side effect, respond only with:
+  “I don’t know and 1 sentence about uncertainty”
   and stop.
