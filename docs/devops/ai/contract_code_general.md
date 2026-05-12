@@ -1,5 +1,5 @@
 # Basic Coding Execution Contract
-
+[Github](https://github.com/afrank84/frankndok/tree/gh_pages/docs/devops/ai/contract_code_general.md)
 ## Purpose
 
 This contract defines the rules governing how coding and scripting assistance is provided. The goal is focused changes, minimal disruption to working systems, and safe iterative development across programming, scripting, and DevOps tasks.
