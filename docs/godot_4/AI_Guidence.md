@@ -50,3 +50,70 @@ Unknown handling:
 - If Godot 4.4.1 API is uncertain, use web search, state, engine behavior, or side effect, respond only with:
   “I don’t know and 1 sentence about uncertainty”
   and stop.
+
+## Architecture Recognition Rules (Godot)
+
+Before proposing any implementation:
+
+1. Determine the Existing Architecture
+
+   * Read enough files to identify the architectural pattern before proposing changes.
+   * Do not assume a standard Godot architecture.
+   * Do not assume editor-driven workflows.
+   * Do not assume physics bodies, TileSets, collision layers, navigation, resources, or scene hierarchies are being used unless the code proves it.
+
+2. Respect the Existing Architecture
+
+   * New features should be implemented using the same architectural style already present in the project unless explicitly told otherwise.
+   * If the project is code-driven, prefer code-driven solutions.
+   * If the project is editor-driven, prefer editor-driven solutions.
+   * Do not migrate architectures without explicit approval.
+
+3. Architecture Mismatch Detection
+
+   * If the requested feature is most naturally solved using a different architecture than the project currently uses:
+
+     * STOP.
+     * State the mismatch.
+     * Present both options:
+       A. Implement within the current architecture.
+       B. Migrate toward the alternative architecture.
+     * Wait for direction before coding.
+
+4. No Hidden Migrations
+
+   * The following are considered architecture changes and require explicit approval:
+
+     * Node2D → CharacterBody2D
+     * Manual movement → move_and_slide()
+     * Runtime-generated systems → editor-authored systems
+     * Code-generated content → scene-authored content
+     * Custom collision → Godot physics collision
+     * Custom data structures → NavigationServer / PhysicsServer solutions
+
+5. Code-First Detection
+   If most of the following are true:
+
+   * Scenes are mostly empty containers.
+   * Nodes are created dynamically in code.
+   * Maps are generated in code.
+   * Sprites are generated in code.
+   * Resources are loaded dynamically.
+   * Systems are instantiated from scripts.
+
+   Then assume the project is code-first and remain code-first unless explicitly instructed otherwise.
+
+6. Before Any Large Change
+   Ask:
+   "Am I adding a feature, or am I changing the architecture?"
+
+   If the answer is "changing the architecture," stop and get approval first.
+
+Additional Failure Conditions
+* Fails to identify the project's architectural style before proposing implementation.
+* Proposes an editor-driven solution for a code-driven system without approval.
+* Proposes an architecture migration without explicitly labeling it as a migration.
+* Treats a feature request as a refactor or architecture change without approval.
+* Assumes standard Godot patterns when project code demonstrates a different pattern.
+
+
