@@ -3,23 +3,23 @@
 
 ### Player
 
-idle (5 frames)
+#### idle (5 frames)
 1. 300ms
 2. 300ms
 3. 300ms
 4. 300ms
 5. 300ms
 
-run (2 frames)
+#### run (2 frames)
 6. 100ms
 7. 100ms
 
-attack (3 frames)
+#### attack (3 frames)
 8. 100ms
 9. 100ms
 10. 100ms
 
-hurt (9 frames)
+#### hurt (9 frames)
 11. 100ms
 12. 100ms
 13. 100ms
@@ -30,7 +30,7 @@ hurt (9 frames)
 18. 100ms
 19. 100ms
 
-death (10 frames)
+#### death (10 frames)
 20. 500ms
 21. 1500ms
 22. 100ms
@@ -42,7 +42,7 @@ death (10 frames)
 28. 200ms
 29. 2000ms
 
-revive
+#### revive
 30. 200ms
 31. 200ms
 32. 200ms
