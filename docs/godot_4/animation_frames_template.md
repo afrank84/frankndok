@@ -31,16 +31,16 @@
 19. 100ms
 
 #### death (10 frames)
-20. 500ms
-21. 1500ms
-22. 100ms
-23. 100ms
-24. 300ms
-25. 300ms
-26. 1000ms
-27. 200ms
-28. 200ms
-29. 2000ms
+20. 500ms (eyes)
+21. 1500ms (eyes)
+22. 100ms (shrink down)
+23. 100ms (shrink down)
+24. 300ms (wiggle left)
+25. 300ms (center)
+26. 1000ms (wiggle right)
+27. 200ms (turn 1)
+28. 200ms (turn 2)
+29. 2000ms (lay on ground)
 
 #### revive
 30. 200ms
