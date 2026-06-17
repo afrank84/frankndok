@@ -21,8 +21,8 @@
 
 #### hurt (9 frames)
 11. 100ms
-12. 100ms
-13. 100ms
+12. 100ms (retrack from bottom)
+13. 100ms (retrack from bottom)
 14. 100ms
 15. 100ms
 16. 100ms
