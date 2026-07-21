@@ -6,9 +6,10 @@ tags: [ministry]
 
 # How Faith Transforms Our Work
 Subjects to talk about
+- Ant and Sluggard
 - Work as an Identiy
 - Work Good or Bad?
-- Work PreFall, During Fall, Millinium Reign, Heaven
+- Work PreFall, During Fall, Millenium Reign, Heaven
 - Is there a best work?
 - Is all work the same?
 - Is some work elevated above others? Should it be?
@@ -19,14 +20,27 @@ Subjects to talk about
 3) Faith gives you a moral compass without which work could corrupt you.
 4) Faith gives you a world and life view that shapes the character of your work without which work could master and use you.
 
+## Lead-In
 
-**Primary Text:** Colossians 3:23–24
+**"6 Go to the ant, thou sluggard; consider her ways, and be wise: 7 Which having no guide, overseer, or ruler, 8 Provideth her meat in the summer, and gathereth her food in the harvest."** Proverbs 6:6-8 (KJV)
+
+If you started your own company (doesn't matter what it is) and you hired 10 of yourself as employees, how would that company do?
+
+If the answer is not good, then congratulations you are dumber than an ant.
+
+There are 4 kinds of workers:
+1. Worker who sees a task and does it without being told.
+2. Worker who asks what needs to be done and goes to do it.
+3. Worker who won't do a thing without being asked to do it.
+4. Worker who has to first be found to even be asked to do something.
+
+**Primary Text:** Colossians 3:23–24 (KJV)
 
 > *"And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."*
 
 ## Introduction
 
-Work occupies a tremendous portion of our lives. Most people will spend somewhere around a third of their adult life working. Yet when Christians think about serving God, we often think about church, prayer, evangelism, or Bible study. Rarely do we think about Monday morning.
+Work occupies a tremendous portion of our lives. Most people will spend somewhere around a third of their adult life working. Yet when Christians think about serving God, we often think about church, prayer, evangelism, or Bible study. Rarely, do we think about Monday morning.
 
 But the Bible doesn't separate our faith from our work.
 
@@ -36,7 +50,7 @@ The Christian shouldn't merely do different things.
 
 The Christian should do ordinary things for different reasons.
 
-Today I want to show four ways faith completely changes our work.
+Today, I want to show four ways faith completely changes our work.
 
 Without Christ...
 
@@ -46,7 +60,6 @@ Without Christ...
 * work can control us.
 
 With Christ...
-
 work becomes worship.
 
 ---
@@ -65,14 +78,10 @@ Ask someone,
 
 Notice we don't usually answer with where we live or what we enjoy.
 
-We answer with our occupation.
-
+We answer with our occupation:
 "I'm an engineer."
-
 "I'm a teacher."
-
 "I'm retired."
-
 "I'm a mechanic."
 
 Our identity slowly becomes attached to our profession.
@@ -80,7 +89,6 @@ Our identity slowly becomes attached to our profession.
 That's dangerous.
 
 Because if your identity comes from your work...
-
 then losing your job means losing yourself.
 
 Failure at work becomes failure as a person.
@@ -96,11 +104,9 @@ Faith changes all of that.
 ### Our identity is in Christ.
 
 Before God ever gave Israel work...
-
 He made them His people.
 
 Before Jesus ever sent His disciples...
-
 He called them to Himself.
 
 God always establishes identity before assignment.
@@ -112,14 +118,10 @@ The Christian works because he already is valuable to Christ.
 ---
 
 Paul could be imprisoned...
-
 beaten...
-
 shipwrecked...
-
 poor...
-
-and still rejoice.
+and still rejoiced.
 
 Why?
 
@@ -128,7 +130,6 @@ Because none of those things defined him.
 Christ did.
 
 That's why Paul could say,
-
 > "I have learned, in whatsoever state I am, therewith to be content."
 
 Faith becomes the ballast that keeps us upright when work becomes difficult.
@@ -138,15 +139,12 @@ Faith becomes the ballast that keeps us upright when work becomes difficult.
 ### Application
 
 Lose your job...
-
 you still belong to Christ.
 
 Retire...
-
 you still belong to Christ.
 
 Become disabled...
-
 you still belong to Christ.
 
 Success never makes you more valuable.
@@ -160,7 +158,6 @@ Your value was settled at Calvary.
 # II. Faith Gives Dignity to Every Kind of Work
 
 One of the greatest lies our culture teaches is that some jobs matter...
-
 and other jobs don't.
 
 The Bible teaches something entirely different.
@@ -173,9 +170,8 @@ Genesis begins with God creating.
 
 Then He places Adam into the garden.
 
-Not to relax.
-
-To work.
+Not to relax...
+to work.
 
 Work existed before sin.
 
@@ -192,11 +188,9 @@ Work is part of God's good creation.
 We often think about His three-year ministry.
 
 But before that...
-
 He spent nearly thirty years living an ordinary working life.
 
 He was known as
-
 "The carpenter."
 
 The Son of God spent the overwhelming majority of His earthly life doing ordinary work.
@@ -210,23 +204,15 @@ Ordinary work matters to God.
 ### There is no insignificant work.
 
 The janitor who cleans the church...
-
 The mother changing diapers...
-
 The farmer planting seed...
-
 The programmer writing software...
-
 The nurse caring for patients...
-
 The truck driver delivering food...
-
 The cashier greeting customers...
-
 None of those jobs are beneath God's attention.
 
 If done for Christ...
-
 they become acts of worship.
 
 ---
@@ -238,19 +224,15 @@ Because our audience isn't our employer.
 It's Christ.
 
 When nobody notices...
-
 He notices.
 
 When nobody thanks us...
-
 He knows.
 
 When nobody appreciates the effort...
-
 He sees every detail.
 
 That's why Colossians says,
-
 > "Do it heartily, as unto the Lord."
 
 Not because your boss deserves it.
@@ -263,14 +245,10 @@ Because Jesus does.
 
 Work creates opportunities.
 
-It also creates temptations.
-
+It also creates temptations:
 Money.
-
 Recognition.
-
 Power.
-
 Advancement.
 
 Every profession offers opportunities to compromise.
@@ -280,19 +258,15 @@ Every profession offers opportunities to compromise.
 ### Faith asks a different question.
 
 The world asks,
-
 "What can I get away with?"
 
 Faith asks,
-
 "What honors God?"
 
 The world asks,
-
 "Will anyone find out?"
 
 Faith asks,
-
 "What does God already know?"
 
 ---
@@ -332,7 +306,6 @@ Worked diligently.
 Obeyed authority.
 
 But when authority contradicted God...
-
 he remained loyal to God.
 
 Faith gave him a moral compass.
@@ -358,9 +331,7 @@ No promotion is worth damaging your testimony.
 # IV. Faith Shapes How We Work
 
 Eventually...
-
 your work shapes you...
-
 or Christ shapes your work.
 
 Nobody remains unchanged.
@@ -368,19 +339,14 @@ Nobody remains unchanged.
 ---
 
 Romans 12 says,
-
 > "Be not conformed to this world..."
 
-Every workplace has its culture.
-
+Every workplace has its culture:
 Its language.
-
 Its values.
-
 Its priorities.
 
 Without realizing it...
-
 we slowly begin thinking like everyone else.
 
 Faith continually renews our minds.
@@ -424,9 +390,7 @@ Faithfulness often speaks louder than giftedness.
 ### Humility
 
 Take correction.
-
 Give credit.
-
 Serve others.
 
 The greatest worker isn't the one constantly seeking recognition.
@@ -444,25 +408,19 @@ Perfection belongs to God.
 Excellence is simply offering God your very best.
 
 Sloppy work says,
-
 "This wasn't important."
 
 Excellent work says,
-
 "God deserves my best."
 
 ---
 
 ### Patience
 
-Every job involves difficult people.
-
+Every job involves difficult people:
 Customers.
-
 Employees.
-
 Managers.
-
 Clients.
 
 Faith reminds us how patient Christ has been toward us.
@@ -476,7 +434,6 @@ Therefore we become patient with others.
 People make mistakes.
 
 Christians should be the first to correct...
-
 and the first to forgive.
 
 Justice matters.
@@ -528,7 +485,6 @@ Jesus spoke about a rich man who built bigger barns.
 His entire identity became his success.
 
 God called him
-
 "Thou fool."
 
 Not because he was wealthy.
@@ -544,7 +500,6 @@ It is not your savior.
 Only Christ deserves that place.
 
 If work becomes your master...
-
 you'll sacrifice family.
 
 Health.
