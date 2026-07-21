@@ -5,6 +5,19 @@ tags: [ministry]
 ---
 
 # Mastery: The Christian Pursuit of Excellence
+Subjects to talk about
+- Work as an Identiy
+- Work Good or Bad?
+- Work PreFall, During Fall, Millinium Reign, Heaven
+- Is there a best work?
+- Is all work the same?
+- Is some work elevated above others? Should it be?
+1) Faith gives you an inner ballast without which work could destroy you.
+2) Faith gives you a concept of the dignity and worth of all work, even simple work, without which work could bore you.
+    a) All work is good work (except for a few outliers, of course).
+    b) The way to do work as a Christian is to do it well.
+3) Faith gives you a moral compass without which work could corrupt you.
+4) Faith gives you a world and life view that shapes the character of your work without which work could master and use you.
 
 ## Theme
 
