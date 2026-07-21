@@ -1,10 +1,10 @@
 ---
-title: Look to the Ant
+title: How Faith Transforms Our Work
 authors: [frank]
 tags: [ministry]
 ---
 
-# Mastery: The Christian Pursuit of Excellence
+# How Faith Transforms Our Work
 Subjects to talk about
 - Work as an Identiy
 - Work Good or Bad?
@@ -19,269 +19,596 @@ Subjects to talk about
 3) Faith gives you a moral compass without which work could corrupt you.
 4) Faith gives you a world and life view that shapes the character of your work without which work could master and use you.
 
-## Theme
 
-God gives us ability.
+**Primary Text:** Colossians 3:23–24
 
-We surrender that ability to Him.
+> *"And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."*
 
-We diligently develop it.
+## Introduction
 
-Through faithful practice, God produces mastery for His glory.
+Work occupies a tremendous portion of our lives. Most people will spend somewhere around a third of their adult life working. Yet when Christians think about serving God, we often think about church, prayer, evangelism, or Bible study. Rarely do we think about Monday morning.
 
----
+But the Bible doesn't separate our faith from our work.
 
-# I. Ability — God Gives the Gift
+God isn't interested in us living for Him only on Sunday. He wants to transform the way we work on Monday.
 
-**Question:** *Where does ability come from?*
+The Christian shouldn't merely do different things.
 
-### Exodus 31:1–6
+The Christian should do ordinary things for different reasons.
 
-Bezalel didn't discover his ability.
+Today I want to show four ways faith completely changes our work.
 
-God gave it.
+Without Christ...
 
-### James 1:17
+* work can destroy us.
+* work can bore us.
+* work can corrupt us.
+* work can control us.
 
-> "Every good gift and every perfect gift is from above..."
+With Christ...
 
-### 1 Corinthians 4:7
-
-> "...what hast thou that thou didst not receive?"
-
-Everything we possess is on loan from God.
-
-Not just spiritual gifts.
-
-* Intelligence
-* Strength
-* Creativity
-* Leadership
-* Musical ability
-* Mechanical skill
-* Communication
-* Compassion
-
-God distributes abilities differently according to His purposes.
-
-### Principle
-
-**Ability is a gift, not an achievement.**
+work becomes worship.
 
 ---
 
-# II. Submission — Ability Must Be Surrendered
+# I. Faith Gives You an Inner Ballast
 
-Many gifted people never glorify God.
+### Work was never designed to carry your identity.
 
-Ability alone accomplishes nothing for eternity.
+Many people don't work because they need food.
 
-God is not looking merely for talented people.
+They work because they need significance.
 
-He is looking for yielded people.
+Ask someone,
 
-### Romans 12:1
+"What do you do?"
 
-Present your bodies "a living sacrifice."
+Notice we don't usually answer with where we live or what we enjoy.
 
-Before God asks for your work,
+We answer with our occupation.
 
-He asks for you.
+"I'm an engineer."
 
----
+"I'm a teacher."
 
-### Proverbs 3:5–6
+"I'm retired."
 
-Trust in the Lord...
+"I'm a mechanic."
 
-A gifted person relying on himself is headed toward pride.
+Our identity slowly becomes attached to our profession.
 
-A surrendered person becomes useful.
+That's dangerous.
 
----
+Because if your identity comes from your work...
 
-### Biblical Examples
+then losing your job means losing yourself.
 
-**Samson**
+Failure at work becomes failure as a person.
 
-Great ability.
+Criticism at work feels like criticism of your value.
 
-Little submission.
+Promotion becomes the measure of your worth.
 
-His strength became a curse because his heart wasn't surrendered.
-
----
-
-**Saul**
-
-Gifted.
-
-Chosen.
-
-Anointed.
-
-But refused God's authority.
+Faith changes all of that.
 
 ---
 
-**David**
+### Our identity is in Christ.
 
-Also gifted.
+Before God ever gave Israel work...
 
-But repeatedly called himself God's servant.
+He made them His people.
 
-When he failed, he repented.
+Before Jesus ever sent His disciples...
 
-His heart remained toward God.
+He called them to Himself.
 
----
+God always establishes identity before assignment.
 
-### Principle
+The Christian doesn't work to become valuable.
 
-**Ability without submission leads to pride.**
-
-**Submission allows God to direct our ability.**
+The Christian works because he already is valuable to Christ.
 
 ---
 
-# III. Diligence — Developing What God Has Entrusted
+Paul could be imprisoned...
 
-God gives the seed.
+beaten...
 
-We cultivate it.
+shipwrecked...
 
----
+poor...
 
-### Proverbs 6
+and still rejoice.
 
-The ant.
+Why?
 
-No king.
+Because none of those things defined him.
 
-No boss.
+Christ did.
 
-No reminders.
+That's why Paul could say,
 
-Just faithful work.
+> "I have learned, in whatsoever state I am, therewith to be content."
 
----
-
-### Proverbs 22:29
-
-Notice it doesn't say
-
-> "Seest thou a talented man..."
-
-It says
-
-> "Seest thou a man diligent..."
-
-God blesses diligence.
+Faith becomes the ballast that keeps us upright when work becomes difficult.
 
 ---
 
-### Ecclesiastes 9:10
+### Application
 
-Whatever your hand finds to do...
+Lose your job...
 
-Do it with all your might.
+you still belong to Christ.
 
----
+Retire...
 
-Daniel excelled because he was faithful every day.
+you still belong to Christ.
 
-Not just on the day of the lions.
+Become disabled...
 
----
+you still belong to Christ.
 
-### Principle
+Success never makes you more valuable.
 
-**God's gifts deserve our best effort.**
+Failure never makes you less valuable.
 
----
-
-# IV. Mastery — Excellence for God's Glory
-
-Mastery is the combination of
-
-* God's gift
-* A surrendered heart
-* Years of diligence
+Your value was settled at Calvary.
 
 ---
 
-### 1 Corinthians 9:24–27
+# II. Faith Gives Dignity to Every Kind of Work
 
-Paul says,
+One of the greatest lies our culture teaches is that some jobs matter...
 
-> "Every man that striveth for the mastery..."
+and other jobs don't.
 
-Notice that mastery begins with mastering yourself.
-
-Self-control.
-
-Discipline.
-
-Temperance.
+The Bible teaches something entirely different.
 
 ---
 
-David practiced before Goliath.
+### God Himself worked.
 
-Joseph served before he ruled.
+Genesis begins with God creating.
 
-Moses shepherded before he led Israel.
+Then He places Adam into the garden.
 
-Jesus "increased in wisdom."
+Not to relax.
 
-Growth is God's pattern.
+To work.
+
+Work existed before sin.
+
+The curse made work difficult.
+
+The curse did not invent work.
+
+Work is part of God's good creation.
 
 ---
 
-### Principle
+### Jesus spent most of His earthly life working.
 
-Mastery isn't perfection.
+We often think about His three-year ministry.
 
-Mastery is faithful excellence over time.
+But before that...
+
+He spent nearly thirty years living an ordinary working life.
+
+He was known as
+
+"The carpenter."
+
+The Son of God spent the overwhelming majority of His earthly life doing ordinary work.
+
+That tells us something.
+
+Ordinary work matters to God.
 
 ---
 
-# Conclusion
+### There is no insignificant work.
 
-The world says:
+The janitor who cleans the church...
 
-> Discover yourself.
+The mother changing diapers...
 
-God says:
+The farmer planting seed...
 
-> Receive My gifts.
+The programmer writing software...
 
-The world says:
+The nurse caring for patients...
 
-> Express yourself.
+The truck driver delivering food...
 
-God says:
+The cashier greeting customers...
 
-> Submit yourself.
+None of those jobs are beneath God's attention.
 
-The world says:
+If done for Christ...
 
-> Chase success.
+they become acts of worship.
 
-God says:
+---
 
-> Be diligent.
+### Christians should pursue excellence.
 
-The world says:
+Because our audience isn't our employer.
 
-> Become great.
+It's Christ.
 
-God says:
+When nobody notices...
 
-> Become faithful.
+He notices.
 
-Because true mastery is not measured by how impressive you become.
+When nobody thanks us...
 
-It is measured by how completely your God-given abilities are placed into God's hands.
+He knows.
 
+When nobody appreciates the effort...
 
+He sees every detail.
+
+That's why Colossians says,
+
+> "Do it heartily, as unto the Lord."
+
+Not because your boss deserves it.
+
+Because Jesus does.
+
+---
+
+# III. Faith Gives a Moral Compass
+
+Work creates opportunities.
+
+It also creates temptations.
+
+Money.
+
+Recognition.
+
+Power.
+
+Advancement.
+
+Every profession offers opportunities to compromise.
+
+---
+
+### Faith asks a different question.
+
+The world asks,
+
+"What can I get away with?"
+
+Faith asks,
+
+"What honors God?"
+
+The world asks,
+
+"Will anyone find out?"
+
+Faith asks,
+
+"What does God already know?"
+
+---
+
+### Joseph
+
+Joseph could have justified sin.
+
+Nobody would have known.
+
+His brothers had betrayed him.
+
+He had suffered unfairly.
+
+Yet he refused.
+
+Why?
+
+Because he feared God more than he desired pleasure.
+
+His faith shaped his ethics.
+
+---
+
+### Daniel
+
+Daniel served pagan kings.
+
+He worked in a corrupt government.
+
+Yet he never compromised his convictions.
+
+He served faithfully.
+
+Worked diligently.
+
+Obeyed authority.
+
+But when authority contradicted God...
+
+he remained loyal to God.
+
+Faith gave him a moral compass.
+
+---
+
+### Integrity is expensive.
+
+Sometimes honesty costs promotions.
+
+Sometimes righteousness costs money.
+
+Sometimes doing what's right makes life harder.
+
+But Christians understand something the world doesn't.
+
+Character is worth more than career.
+
+No promotion is worth damaging your testimony.
+
+---
+
+# IV. Faith Shapes How We Work
+
+Eventually...
+
+your work shapes you...
+
+or Christ shapes your work.
+
+Nobody remains unchanged.
+
+---
+
+Romans 12 says,
+
+> "Be not conformed to this world..."
+
+Every workplace has its culture.
+
+Its language.
+
+Its values.
+
+Its priorities.
+
+Without realizing it...
+
+we slowly begin thinking like everyone else.
+
+Faith continually renews our minds.
+
+---
+
+### Christians should be known by their character.
+
+Not merely by talent.
+
+Anybody can be talented.
+
+Not everybody is trustworthy.
+
+---
+
+### Honesty
+
+Tell the truth.
+
+Even when it costs.
+
+Even when nobody would know.
+
+Truth reflects the God of truth.
+
+---
+
+### Reliability
+
+Be the person others depend upon.
+
+Finish what you begin.
+
+Arrive when you say you will.
+
+Faithfulness often speaks louder than giftedness.
+
+---
+
+### Humility
+
+Take correction.
+
+Give credit.
+
+Serve others.
+
+The greatest worker isn't the one constantly seeking recognition.
+
+It's the one trying to glorify Christ.
+
+---
+
+### Excellence
+
+Never confuse excellence with perfection.
+
+Perfection belongs to God.
+
+Excellence is simply offering God your very best.
+
+Sloppy work says,
+
+"This wasn't important."
+
+Excellent work says,
+
+"God deserves my best."
+
+---
+
+### Patience
+
+Every job involves difficult people.
+
+Customers.
+
+Employees.
+
+Managers.
+
+Clients.
+
+Faith reminds us how patient Christ has been toward us.
+
+Therefore we become patient with others.
+
+---
+
+### Mercy
+
+People make mistakes.
+
+Christians should be the first to correct...
+
+and the first to forgive.
+
+Justice matters.
+
+Grace matters too.
+
+---
+
+### Truthfulness
+
+Not merely avoiding lies.
+
+Rejecting manipulation.
+
+Rejecting deception.
+
+Rejecting hidden motives.
+
+Living transparently.
+
+Because our God delights in truth.
+
+---
+
+These aren't simply good business principles.
+
+They're evidence that Christ is transforming us.
+
+---
+
+# V. Faith Keeps Work From Becoming Your Master
+
+Here's the danger.
+
+Work is a wonderful servant.
+
+It is a terrible master.
+
+Some people worship leisure.
+
+Others worship careers.
+
+Either one can become an idol.
+
+---
+
+Jesus spoke about a rich man who built bigger barns.
+
+His entire identity became his success.
+
+God called him
+
+"Thou fool."
+
+Not because he was wealthy.
+
+Because wealth had become his god.
+
+---
+
+Your job is a gift.
+
+It is not your savior.
+
+Only Christ deserves that place.
+
+If work becomes your master...
+
+you'll sacrifice family.
+
+Health.
+
+Church.
+
+Integrity.
+
+Peace.
+
+Everything eventually gets placed on the altar of success.
+
+Faith refuses to bow before that idol.
+
+---
+
+## Conclusion
+
+Faith transforms every part of work.
+
+It gives us stability because our identity is found in Christ.
+
+It gives dignity to every honest occupation because all work can be offered to God.
+
+It gives us a moral compass so success never comes at the expense of righteousness.
+
+It shapes our character so we become more like Christ while doing our jobs.
+
+And it keeps work in its proper place—a gift from God, never a substitute for God.
+
+The Christian should be the most dependable employee.
+
+The most trustworthy employer.
+
+The most honest contractor.
+
+The most compassionate nurse.
+
+The most diligent student.
+
+The most faithful mechanic.
+
+Not because Christians are naturally better people.
+
+But because every task, every conversation, every project, and every responsibility is ultimately done before the Lord.
+
+One day, your employer may never remember your name.
+
+Your coworkers may forget everything you accomplished.
+
+The world will move on.
+
+But there is One who has watched every unseen act of faithfulness.
+
+Every honest decision.
+
+Every extra effort.
+
+Every temptation resisted.
+
+Every task done "as unto the Lord."
+
+And on that day, the only words that will matter are these:
+
+> **"Well done, thou good and faithful servant."** (Matthew 25:21)
+
+That is the Christian's motivation for work—not merely to earn a paycheck, build a career, or gain recognition, but to glorify Christ in every task He places before us.
