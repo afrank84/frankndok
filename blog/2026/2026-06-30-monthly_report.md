@@ -1,5 +1,5 @@
 ---
-title: 2026-06 | June Report
+title: 2026-06-30 | June Report
 authors: [frank]
 tags: [life, ministry, technology, homestead]
 ---
