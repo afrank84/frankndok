@@ -55,15 +55,17 @@ That king was Nero.
 **Acts 5:29**
 > "We ought to obey God rather than men."
 Examples:
-- Hebrew midwives
-- Daniel
-- Hananiah, Mishael, and Azariah (Shadrach, Meshach, Abednego)
-- Peter and John
+- Hebrew midwives — Respectfully disobeyed Pharaoh's evil command because they feared God more than man.
+- Daniel — Respectfully refused to compromise while continuing to honor and serve the king.
+- Hananiah, Mishael, and Azariah (Shadrach, Meshach, Abednego) — Respectfully refused to worship the golden image, even under threat of death.
+- Peter and John — Respectfully refused to stop preaching Christ, declaring they must obey God rather than men.
+
 *Notice something:*
 - None of them became disrespectful.
 - Daniel didn't insult Nebuchadnezzar.
 - The three Hebrews didn't mock the king.
 - Peter wasn't sarcastic.
+
 *Instead:*
 > "We cannot do what you ask."
 * Respectful.
@@ -72,22 +74,30 @@ Examples:
 
 **Application**
 > You can say: "No."
-> Without saying: "You're an idiot."
+> Without saying: "You're an (________ Insert whatever insult here)."
 
 ---
 
 ### Part 3 — Respectful Speech (10 min)
-- James 3
-- Ephesians 4:29
-- Colossians 4:6
-- Proverbs 15:1
-- Matthew 12:36
+- James 3 — Teaches that the tongue has great power to either bless others or cause tremendous harm.
+- Ephesians 4:29 — Commands believers to speak words that build others up rather than tear them down.
+- Colossians 4:6 — Instructs Christians to speak with grace, wisdom, and kindness.
+- Proverbs 15:1 — Shows that a gentle answer can calm anger, while harsh words stir up conflict.
+- Matthew 12:36 — Warns that every careless word spoken will be brought into judgment before God.
 *This section should focus heavily on speech.*
-- Social media
-- Facebook
-- TikTok
-- YouTube comments
-- Christian Facebook groups
+- (Talk about Social media)
+   - Sharing an embarrassing story about someone on Facebook because "it's true."
+   - Mocking a politician or public figure with hateful comments instead of speaking respectfully.
+   - Calling someone names in a YouTube comment because they disagree with your beliefs.
+   - Making sarcastic or cutting remarks in a Facebook group over a doctrinal disagreement.
+   - Publicly shaming a church member instead of speaking to them privately.
+   - Forwarding rumors or unverified accusations because they are entertaining.
+   - Posting a "prayer request" that is really gossip about another person.
+   - Winning an online argument but losing your Christian testimony through harsh speech.
+   - Rejoicing when someone you dislike fails or is publicly exposed.
+   - Using anonymous accounts to say things you would never say face-to-face.
+   - Sharing memes that belittle or dehumanize people made in God's image.
+   - GOAL: Speaking respectfully to someone with whom you strongly disagree, even when everyone else is insulting them.
 **Marital Examples**
 - A wife constantly humiliating her husband online.
 - A husband constantly ridiculing his wife to friends.
@@ -129,17 +139,18 @@ These are not synonyms.
 - Joseph fled Potiphar's wife.
 **There is no Biblical virtue in standing still while someone hurts you.**
 *Discuss:*
-- Domestic abuse
-- Physical abuse
-- Emotional abuse
-- Repeated manipulation
-- Threats
-- Stalking
+- Domestic abuse — Respect does not require remaining in a home where you or your children are being harmed.
+- Physical abuse — God never commands enduring ongoing violence when there is a way to seek safety.
+- Emotional abuse — Constant intimidation, humiliation, or degradation should not be accepted as normal Christian living.
+- Repeated manipulation — Loving someone does not mean allowing them to continually control you through guilt, lies, or deception.
+- Threats — Serious threats should be taken seriously, reported when appropriate, and met with wise boundaries.
+- Stalking — Seeking protection from someone who persistently follows or harasses you is not a lack of respect but an act of wisdom.
+
 *Explain carefully:*
 - A Christian may leave.
 - A Christian may call the police.
 - A Christian may establish boundaries.
-- A Christian may seek safety.
+- A Christian may seek safety. (fight or flight when implications are life threatening)
 **Application:**
 >Respecting someone does not require remaining within reach of their sin.
 * Romans 12:18
@@ -160,9 +171,9 @@ Sometimes distance is.
 - Refusing revenge.
 - Praying for them.
 - Not rejoicing when they fall.
-* Romans 12
-* Matthew 5
-* Proverbs 24:17
+- Romans 12 — Teaches believers to overcome evil with good, refuse personal revenge, and live peaceably whenever possible.
+- Matthew 5 — Commands Christians to love their enemies, bless those who curse them, and pray for those who mistreat them.
+- Proverbs 24:17 — Warns against rejoicing when an enemy falls or taking pleasure in their misfortune.
 David is the perfect illustration.
 - He fled.
 - He cried.
