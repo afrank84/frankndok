@@ -28,41 +28,30 @@ tags: [ministry]
 
 ### Part 1 — Respect is Commanded, Not Earned (10 min)
 
-Primary passages:
-
-Romans 13:1-7
-
-1 Peter 2:13-18
-
-Titus 3:1-2
-
-Ecclesiastes 10:20
+- Primary passages:
+- **Romans 13:1-7** — God establishes earthly authorities, and believers are commanded to respect and submit to their lawful authority because resisting rightful authority is ultimately resisting God's order.
+- **1 Peter 2:13-18** — Christians are instructed to honor governing authorities and even difficult masters so that their godly conduct points others to Christ rather than bringing reproach upon the gospel.
+- **Titus 3:1-2** — Paul reminds believers to be obedient, peaceable, gentle, and respectful toward all people, demonstrating the transforming work of Christ in everyday life.
+- **Ecclesiastes 10:20** — God warns us to guard even our private thoughts and conversations about rulers because disrespect has a way of spreading and revealing the condition of our hearts.
 
 Examples
 
-David toward Saul
-
-Joseph toward Pharaoh
-
-Daniel toward Nebuchadnezzar
-
-Paul toward Roman officials
+- **David toward Saul** — David refused to kill King Saul, calling him "the LORD'S anointed," even though Saul repeatedly tried to murder him (1 Samuel 24; 26).
+- **Joseph toward Pharaoh** — Joseph faithfully served Pharaoh with wisdom and integrity, recognizing that God had placed him there to preserve many lives (Genesis 41).
+- **Daniel toward Nebuchadnezzar** — Daniel spoke respectfully to a proud pagan king while faithfully delivering God's difficult messages without compromise (Daniel 2; 4).
+- **Paul toward Roman officials** — Paul treated governors, kings, and military leaders with courtesy and respect even while unjustly imprisoned and standing trial (Acts 24-26).
 
 Key statement:
 
 > God never says "Honor good rulers."
-
 He simply says honor those in authority.
-
 The Roman government under Nero was hardly righteous.
-
 Peter still wrote:
 
 > "Honour all men. Love the brotherhood. Fear God. Honour the king."
 > —1 Peter 2:17
 
 That king was Nero.
-
 Application:
 
 Respecting authority says more about your relationship with God than theirs.
