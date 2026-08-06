@@ -47,7 +47,6 @@ mkdir -p src-tauri/capabilities
 ```
 
 ---
-
 ## Files Created By Hand
 
 ### `src-tauri/Cargo.toml`
@@ -171,6 +170,42 @@ src-tauri/icons/
 without needing to make anything manually.
 
 ---
+
+## .gitignore
+
+Create a `.gitignore` file in the project root.
+
+```gitignore
+# Rust build output
+/target/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+```
+
+### Keep in Git
+
+Do **not** ignore these files:
+
+- `Cargo.toml`
+- `Cargo.lock`
+- `build.rs`
+- `tauri.conf.json`
+- `src/`
+- `icons/`
+- `capabilities/`
+
+`Cargo.lock` **should be committed for applications** so everyone builds against the same dependency versions. :contentReference[oaicite:0]{index=0}
+
 
 ## Build
 
