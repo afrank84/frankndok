@@ -2,7 +2,7 @@
 title: 2026-07-31 | July Report
 authors: [frank]
 tags: [life, ministry, technology]
-----------------------------------
+---
 
 ## Ministry
 
