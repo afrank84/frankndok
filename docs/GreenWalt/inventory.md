@@ -8,6 +8,7 @@
 **Price:** $62.50 each  
 **Quantity:** 14  
 **Total:** **$875.00**
+- Ship to Dental Office
 
 [View on Amazon](https://amzn.to/4ANdC7p)
 
@@ -63,6 +64,7 @@
 
 **Polling Rate:** 1K  
 **Price:** **$79.95**
+- Ship to Dental Office
 
 [View on Amazon](https://amzn.to/4rHyby5)
 
@@ -71,6 +73,7 @@
 **Layout:** 60%  
 **Frame:** Full Aluminum  
 **Price:** **$199.95**
+- Ship to Dental Office
 
 [View on Amazon](https://amzn.to/4dlUHGO)
 
@@ -83,6 +86,7 @@
 **Resolution:** QHD  
 **Curve:** 1000R  
 **Price:** **$189.99**
+- Ship to Dental Office
 
 [View on Amazon](https://amzn.to/4rGLZZu)
 
