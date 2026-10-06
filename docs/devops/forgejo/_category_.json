@@ -1,0 +1,7 @@
+{
+  "label": "Forgejo",
+  "link": {
+    "type": "generated-index",
+    "description": "Guides, configuration, workflows, and troubleshooting specific to Forgejo."
+  }
+}
