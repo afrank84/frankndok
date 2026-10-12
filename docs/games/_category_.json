@@ -1,0 +1,7 @@
+{
+  "label": "Games",
+  "link": {
+    "type": "generated-index",
+    "description": "Fixes, debugging, and scripting for video games, usually on Steam"
+  }
+}
