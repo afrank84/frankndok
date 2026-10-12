@@ -3,6 +3,7 @@ id: devops-glossary
 title: DevOps Terminology Glossary
 sidebar_label: DevOps Glossary
 description: An alphabetical glossary of DevOps, cloud, Linux, networking, security, CI/CD, and software engineering terminology.
+sidebar_position: -100
 ---
 
 # DevOps Terminology Glossary
