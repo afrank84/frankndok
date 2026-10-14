@@ -192,6 +192,8 @@ A plain-English reference for common DevOps and software infrastructure terminol
 
 **Helm** — A package manager for Kubernetes applications.
 
+**HIPAA** — Health Insurance Portability and Accountability Act; a U.S. law establishing requirements for protecting certain health information.
+
 **Horizontal Scaling** — Adding more instances to increase capacity.
 
 **Host** — A computer or environment that runs workloads or services.
@@ -272,6 +274,8 @@ A plain-English reference for common DevOps and software infrastructure terminol
 
 **Microservice** — A small, independently deployable service within a larger system.
 
+**Microsegmentation** — Dividing a network into small security zones and controlling traffic between individual workloads or systems.
+
 **Middleware** — Software that processes requests between application components.
 
 **MTTD** — Mean Time to Detect; average time to discover an issue.
@@ -314,6 +318,12 @@ A plain-English reference for common DevOps and software infrastructure terminol
 
 **Patch** — A change that fixes a defect or security issue.
 
+**PCI DSS** — Payment Card Industry Data Security Standard; security requirements for organizations that store, process, or transmit payment card data.
+
+**PHI** — Protected Health Information; individually identifiable health information protected under HIPAA.
+
+**Physical Segmentation** — Separating networks using distinct physical hardware, cables, or switches rather than only software configuration.
+
 **Pipeline** — An automated sequence of build, test, or deployment stages.
 
 **Pod** — The smallest deployable workload unit in Kubernetes, containing one or more containers.
@@ -341,6 +351,8 @@ A plain-English reference for common DevOps and software infrastructure terminol
 ## R
 
 **RBAC** — Role-Based Access Control; permissions assigned through roles.
+
+**RAG (AI)** — Retrieval-Augmented Generation; an AI technique that retrieves relevant information from external sources to help generate an answer.
 
 **RCA** — Root Cause Analysis; investigating the underlying contributors to a problem.
 
@@ -410,6 +422,8 @@ A plain-English reference for common DevOps and software infrastructure terminol
 
 **Subnet** — A logical subdivision of an IP network.
 
+**Subnetting** — Dividing an IP network into smaller logical networks to organize addresses and control routing.
+
 **Supply Chain Security** — Protecting software dependencies, build systems, and distribution paths.
 
 ## T
@@ -454,7 +468,7 @@ A plain-English reference for common DevOps and software infrastructure terminol
 
 **Virtual Machine (VM)** — A software-defined computer running its own operating system.
 
-**VLAN** — Virtual Local Area Network; logical segmentation of a network.
+**VLAN (Virtual Local Area Network)** — A way to divide one physical network into separate logical networks using network switch configuration.
 
 **Volume** — Persistent or managed storage mounted into a workload.
 
@@ -495,4 +509,3 @@ A plain-English reference for common DevOps and software infrastructure terminol
 **Zero Trust** — A security model requiring explicit verification rather than implicit network trust.
 
 **Zombie Process** — A terminated Unix process whose parent has not yet collected its exit status.
-
