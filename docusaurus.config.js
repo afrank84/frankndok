@@ -94,7 +94,7 @@ const config = {
         title: 'Frank -N- Dok',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/frank_180x180.png',
+          src: 'img/frank_180x180.webp',
         },
         items: [
           {

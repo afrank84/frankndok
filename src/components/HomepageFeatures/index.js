@@ -7,12 +7,12 @@ const FeatureList = [
   {
     title: 'The Blog & Travel',
     imageSrcs: [
-      require('@site/images/002.png').default,
-      require('@site/images/001.png').default,
-      require('@site/images/003.png').default,
-      require('@site/images/004.png').default,
-      require('@site/images/006.png').default,
-      require('@site/images/005.png').default,
+      require('@site/images/002.webp').default,
+      require('@site/images/001.webp').default,
+      require('@site/images/003.webp').default,
+      require('@site/images/004.webp').default,
+      require('@site/images/006.webp').default,
+      require('@site/images/005.webp').default,
     ], // Array of images for rotation
     description: (
       <>
@@ -28,14 +28,14 @@ const FeatureList = [
   {
     title: 'Ministry',
     imageSrcs: [
-      require('@site/images/028.png').default,
-      require('@site/images/026.png').default,
-      require('@site/images/022.png').default,
-      require('@site/images/021.png').default,
-      require('@site/images/018.png').default,
-      require('@site/images/027.png').default,
-      require('@site/images/024.png').default,
-      require('@site/images/009.png').default,
+      require('@site/images/028.webp').default,
+      require('@site/images/026.webp').default,
+      require('@site/images/022.webp').default,
+      require('@site/images/021.webp').default,
+      require('@site/images/018.webp').default,
+      require('@site/images/027.webp').default,
+      require('@site/images/024.webp').default,
+      require('@site/images/009.webp').default,
     ], // Array of images for rotation
     description: (
       <>
@@ -49,12 +49,12 @@ const FeatureList = [
   {
     title: 'Documentation',
     imageSrcs: [
-      require('@site/images/014.png').default,
-      require('@site/images/017.png').default,
-      require('@site/images/016.png').default,
-      require('@site/images/023.png').default,
-      require('@site/images/019.png').default,
-      require('@site/images/013.png').default,
+      require('@site/images/014.webp').default,
+      require('@site/images/017.webp').default,
+      require('@site/images/016.webp').default,
+      require('@site/images/023.webp').default,
+      require('@site/images/019.webp').default,
+      require('@site/images/013.webp').default,
     ], // Array of images for rotation
     description: (
       <>

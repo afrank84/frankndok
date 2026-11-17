@@ -10,7 +10,7 @@ tags: [life, technology]
 Recently needed to create my own anti-virus scanner and needed something that could run from a live booted usb running Ubuntu. I pretty much live and breath Powershell, but it always feels dirty and lack luster on Linux. Everything that is complicated in bash seems to die, so I figured I would give Perl a try since it was already on most Linux distros pre-installed. I was also familiar with TK from Python, so I figured I would try and make Pearl GUI for my PopOS distro that could track habits. I built in Javascript first, but thought... hey maybe I can make an app, since many of the options I have suck. Mine still sucks too, but it meets my needs and took me less than an hour to code it. Maybe I will put code in repo if anyone is interested
 and develop it more for my needs as my needs grow. Random note:
 
-![image](../../images/habittracker_2025-02-01.png)
+![image](../../images/habittracker_2025-02-01.webp)
 
 Still working on my Security Plus Certificatation, it is pretty dry stuff but generally useful. Much of the knowledge is exposing what terminology is commonly used and introduction into tools, mindsets, and general security principles. 
 
