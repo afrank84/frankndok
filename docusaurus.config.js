@@ -133,14 +133,6 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: '#',
-              },
-              {
-                label: 'Discord',
-                href: '#',
-              },
-              {
                 label: 'X',
                 href: 'https://x.com/afrank84',
               },
