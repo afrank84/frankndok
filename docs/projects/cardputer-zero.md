@@ -16,9 +16,3 @@ It can be useful for learning about radio, building a small network with friends
 2. **Set up two compatible nodes.** Attach the antenna intended for your radio band before transmitting. Use the same firmware family and compatible radio and chat settings on both devices. Select the region setting appropriate for where you operate.
 3. **Send a message nearby.** With both nodes powered on, send a short message and have the other person reply. Once messages work nearby, try again outdoors with some separation.
 4. **Check GNSS outdoors.** Give the device a clear view of the sky and wait for a position fix. Check the coordinates on the screen before enabling any position sharing.
-
-## Where to buy and what to budget
-
-Search for **Cardputer Zero GNSS LoRa** and confirm the seller's photos and part numbers match the unit you want. Ask whether the price includes the handheld, radio and GNSS hardware, antenna, battery, and case. If the radio is sold separately, check its connector and supported frequency band before ordering. Include shipping and tax when comparing complete kits.
-
-**Price check, November 17, 2026.** A listing and price for the exact pictured configuration could not be verified.
