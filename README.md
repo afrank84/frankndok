@@ -4,8 +4,11 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ### Installation
 
+Use the Node.js version in `.node-version`. Cloudflare Pages reads this file
+for builds, and the local search index is generated during the production build.
+
 ```
-$ yarn
+$ npm ci
 ```
 
 ### Local Development
