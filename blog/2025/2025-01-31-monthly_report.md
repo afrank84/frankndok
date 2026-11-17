@@ -20,7 +20,7 @@ Got two letters recently from some people that are serving the Lord over in Indi
 ## Gardening (Snow in Florida)
 Well after looking at the cost of groceries last year, I decided to become a farmer... sort of. I was, however, pulling weeds out in the garden beds about 2 hours after I did the math of food cost. Wouldn't you know it that many of the things that can normally handle Florida cold died. Who knew it would snow in Florida? My beans I planted sure didn't.
 
-![Alt text](../../images/2025_snow_in_florida.png)
+![Alt text](../../images/2025_snow_in_florida.webp)
 
 ## Technology Journey
 In nerd news, for reasons I will not go into... I have had to quickly educate myself in Cyber Security defense and forensics with a bunch of White Hat Hacking stuff. Not the career path I was looking into, but it is useful. 
