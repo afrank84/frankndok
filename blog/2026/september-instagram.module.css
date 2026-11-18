@@ -1,0 +1,17 @@
+.instagramGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 305px), 1fr));
+  gap: 0.75rem;
+  align-items: start;
+}
+
+.instagramGrid > figure {
+  margin: 0;
+  min-width: 0;
+}
+
+/* Instagram sets iframe dimensions inline. Keep the card within its column. */
+.instagramGrid iframe {
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
