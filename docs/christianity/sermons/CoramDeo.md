@@ -1,4 +1,5 @@
 ---
+slug: /christianity/Sermons/CoramDeo
 title: Coram Deo
 authors: [frank]
 tags: [ministry]

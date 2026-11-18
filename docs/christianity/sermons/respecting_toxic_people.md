@@ -1,4 +1,5 @@
 ---
+slug: /christianity/Sermons/respecting_toxic_people
 title: Respect and Toxic People
 authors: [frank]
 tags: [ministry]

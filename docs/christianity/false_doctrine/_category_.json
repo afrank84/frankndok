@@ -1,8 +1,8 @@
 {
-    "label": "False Doctrine",
-    "link": {
-      "type": "generated-index",
-      "description": "List of ideas taught that go against scripture"
-    }
+  "label": "False Doctrine",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "List of ideas taught that go against scripture"
   }
-  
+}

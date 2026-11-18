@@ -1,4 +1,5 @@
 ---
+slug: /christianity/Sermons/stumbling_blocks
 title: Stumbling Blocks
 authors: [frank]
 tags: [ministry]

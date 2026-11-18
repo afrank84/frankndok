@@ -1,3 +1,8 @@
+---
+slug: /christianity/what_is_not_a_christian
+sidebar_position: 2
+---
+
 # What Does Not Make Someone a Christian
 
 Scripture defines a Christian as one who has personally repented of sin and believed on the Lord Jesus Christ for salvation. There are many things people may do or identify with that are commonly associated with Christianity, but the Bible does not recognize these things as evidence of true saving faith.
