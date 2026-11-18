@@ -5,6 +5,7 @@ tags: [life, ministry, technology, homestead]
 ---
 
 import InstagramPost from '@site/src/components/InstagramPost';
+import styles from './september-instagram.module.css';
 
 ## Travel
 
@@ -26,6 +27,7 @@ Naturally, we celebrated with sushi.
 
 That was September.
 
-<InstagramPost url="https://www.instagram.com/p/DdFMq2ykuCw/" />
-
-<InstagramPost url="https://www.instagram.com/p/DdRYoXxG1Oz/" />
+<div className={styles.instagramGrid}>
+  <InstagramPost url="https://www.instagram.com/p/DdFMq2ykuCw/" />
+  <InstagramPost url="https://www.instagram.com/p/DdRYoXxG1Oz/" />
+</div>
