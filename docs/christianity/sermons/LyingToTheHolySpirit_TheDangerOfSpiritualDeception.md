@@ -1,4 +1,5 @@
 ---
+slug: /christianity/Sermons/LyingToTheHolySpirit_TheDangerOfSpiritualDeception
 title: Lying to the Holy Spirit
 authors: [frank]
 tags: [ministry]

@@ -1,3 +1,8 @@
+---
+slug: /christianity/baptism
+sidebar_position: 3
+---
+
 # What Baptism Is and Is Not 
 — A Biblical Examination
 

@@ -1,4 +1,5 @@
 ---
+slug: /christianity/Sermons/LookToTheAnt
 title: How Faith Transforms Our Work
 authors: [frank]
 tags: [ministry]

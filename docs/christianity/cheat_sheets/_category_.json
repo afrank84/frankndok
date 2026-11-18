@@ -1,8 +1,8 @@
 {
-    "label": "Cheat Sheet",
-    "link": {
-      "type": "generated-index",
-      "description": "Cheatsheet material for Evanglaism and Dsicipleship while on road."
-    }
+  "label": "Cheat Sheet",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Cheatsheet material for Evanglaism and Dsicipleship while on road."
   }
-  
+}

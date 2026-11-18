@@ -1,4 +1,5 @@
 ---
+slug: /christianity/Sermons/NoLicenseToSin
 title: No License to Sin
 authors: [frank]
 tags: [ministry]

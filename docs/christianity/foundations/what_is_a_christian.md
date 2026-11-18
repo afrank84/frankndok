@@ -1,3 +1,8 @@
+---
+slug: /christianity/what_is_a_christian
+sidebar_position: 1
+---
+
 # Core Beliefs Required to Be a Christian
 
 The Bible outlines clear, essential doctrines that define true Christian faith. These beliefs are not based on tradition, ritual, or church membership, but on the Word of God. Salvation is through personal faith in Jesus Christ as revealed in Scripture.
