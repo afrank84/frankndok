@@ -69,15 +69,33 @@ podman exec web ss -lntu
 
 Compare the result with the **container** port in the mapping. For a typical bridge-networked container, the application should listen on the container interface or a wildcard address so forwarded traffic can reach it. Minimal images may omit `ss`. In that case, check the application's startup logs and bind configuration.
 
-## 4. Check reachability and actual use
+## 4. Check whether a specific port is open
 
-From another machine on your LAN, try the service at the host's LAN IP and published port. For an HTTP service, use its health endpoint or another known read-only path.
+For a TCP port, run Netcat (`nc`) from the machine that needs to connect. For a LAN check, use another machine on the LAN and substitute your server's address and **host** port.
 
 ```bash
-curl --connect-timeout 3 -I http://192.168.1.100:8080/
+nc -vz -w 3 192.168.1.100 8080
 ```
 
-An HTTP response shows the request reached an HTTP service. Use the application's client for other protocols, including UDP. Test from where your clients run, since firewalls and routing can affect reachability. To check IPv6, use the host's IPv6 address in brackets in the URL.
+- **Succeeded** means the TCP port accepted a connection from that client. To verify which service answered, use its normal client.
+- **Connection refused** usually means no service accepted the connection or a firewall actively rejected it. On the server, check the bind address with `ss` and confirm the container's published port.
+- **Timed out** means the connection attempt received no answer before the deadline. Check the destination address, routing, and firewall rules.
+
+For a service bound to loopback, run the same check on the server with `127.0.0.1` or `::1`. To verify HTTP specifically, request a known read-only endpoint.
+
+```bash
+curl --connect-timeout 3 --max-time 5 -i http://192.168.1.100:8080/
+```
+
+For UDP, send a request using a client for that service. For example, query a DNS server on published UDP port 5353 using a name it serves.
+
+```bash
+dig @192.168.1.100 -p 5353 example.org A +notcp +ignore +time=2 +tries=1
+```
+
+A DNS response confirms the server answered over UDP. UDP has no connection handshake, so silence is inconclusive. This example is for a unicast DNS service. For multicast DNS on UDP 5353, use the [Avahi hostname resolution check](./fixing-avahi-mdns-hostname-conflicts.md#step-7--verify-hostname-resolution).
+
+## 5. Check whether clients are using the port
 
 To see current established TCP connections to a host socket on port 8080, run this on the server.
 
